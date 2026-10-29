@@ -1,0 +1,1399 @@
+﻿Verdant Thicket	翠绿密林
+Once mighty mountains, now split apart by ancient magic or a forgotten war.	昔日巍峨的群山，如今被古老魔法或一场早已湮没的战争撕裂。
+Forsaken Marsh	遗弃沼泽
+A desolate swamp, abandoned long ago. Mist clings to the water, and unseen creatures lurk beneath.	早已被遗忘的荒芜沼泽。雾气缠绕在水面上，暗影中的生物静静潜伏。
+Shattered Peaks	破碎群峰
+The Barren Expanse	荒芜旷野
+A vast, lifeless plain where the wind howls endlessly, carrying the echoes of the past.	辽阔而荒寂的平原上，狂风终日呼啸，仿佛捎来往昔的回声。
+Ashen Rift	灰烬裂谷
+A valley covered in grey ash, the aftermath of a great volcanic catastrophe.	山谷覆满灰烬，诉说着昔日火山浩劫留下的创伤。
+Shadow Ruins	暗影废墟
+The remains of an ancient civilization, forever cursed and shrouded in shifting shadows.	古老文明的遗迹，永受诅咒，笼罩在变幻不定的阴影之中。
+Abyssal Verge	深渊边境
+The last shoreline, shattered into black seas and whispering depths.	最后一道海岸线崩裂成漆黑的海域与低语的深渊。
+World’s Edge	世界尽头
+Where maps end and legends begin. Those who venture beyond are never seen again.	地图在此终结，传说由此开始。越过边界的人，再也没有回来。
+Loot Multiplier	战利品倍率
+Danger Multiplier	危险倍率
+Relic Drop Rate	遗物掉落率
+Village	村庄
+Nothing happens	无事发生
+Merchant’s Gift	商人的馈赠
+A strange merchant offers you a mysterious, brightly glowing potion. Will you accept it?	一名古怪的商人递来一瓶散发奇异光芒的药水。你愿意收下吗？
+Accept the gift	接受礼物
+Critical Hit Chance +10%	暴击率 +10%
+Max HP -10%	最大生命值 -10%
+Decline the offer	拒绝提议
+Karma points +1	业力点数 +1
+Storm Incoming	暴风雨将至
+Storm clouds are gathering ahead. You should find shelter before the rain hits. What will you do?	前方乌云密布，暴雨将至。你最好赶在雨落之前找到避雨处。你打算怎么做？
+Find shelter	寻找避难所
+Lose 2 Action Points	失去 2 点行动力
+Ignore and move on	无视并继续前进
+Lose 25% Health	失去 25% 生命值
+Lost Child	迷路的孩子
+You hear the cries of a small child. He’s lost and begs for help. Leaving him would mean certain death.	你听到一个孩子的哭声。他迷路了，恳求你的帮助。把他丢下，他必死无疑。
+Help the child	帮助孩子
+Cleanse 1 Karma	净化 1 点业力
+Karma points +2	业力点数 +2
+Beggar on the Road	路上的乞丐
+A strange beggar reaches out with an open palm. Will you help him?	一个奇怪的乞丐伸出手掌。你要帮助他吗？
+Give alms	施舍
+Lose 100 Gold	失去 100 金币
+Walk away	转身离开
+You give nothing	你什么都没给
+Priests of Amuranis	阿穆拉尼斯的祭司
+A group of priests offer you a blessing in return for a small donation.	一群祭司愿为你祈福，但要收取一点捐献。
+Accept the blessing	接受祝福
+Defense points +5%	防御 +5%
+Lose 250 Gold	失去 250 金币
+Refuse them	拒绝他们
+You gain nothing	什么也没得到
+Cry for Help	求救声
+A desperate cry echoes nearby. Someone sounds truly in danger. Will you respond?	附近传来绝望的呼喊声。听起来有人真的有危险。你会回应吗？
+Rush to help	赶去救援
+Cleanse 2 Karma	净化 2 点业力
+Ignore it	无视
+Afternoon Brew	下午的药汤
+An old woman invites you to try something she’s brewing in her garden.	一位老妇人邀请你品尝她在花园里酿造的药水。
+Try the potion	尝试药水
+Health Points +10%	生命值 +10%
+Defense points -25%	防御 −25%
+Refuse the offer	拒绝提议
+Defense points +10%	防御 +10%
+Health points -25%	生命值 −25%
+Goblin Dispute	哥布林争吵
+A group of goblins are fighting over loot. You’ll have to intervene.	一群哥布林为战利品争斗。你得介入。
+Break it up	阻止他们
+Join the fight	加入战斗
+Gain 400 Gold	获得 400 金币
+-30% Health	生命值 −30%
+Prayer for the Departed	为亡者祈祷
+You find a strange gravestone with unusual markings. Will you stop and pray?	你发现一块刻着奇怪符号的墓碑。你要停下来祈祷吗？
+Say a prayer	祈祷
+Gain 5 Evasion	闪避 +5
+Lose 1 Action Point	失去 1 点行动力
+-20% Defense	防御 −20%
+Invisibility in a Bottle	隐形药水
+A shady vendor claims to sell an invisibility potion. Doesn’t look too trustworthy.	一个可疑的小贩声称出售隐形药水，看起来并不可信。
+Buy the potion	购买药水
+3 Sneak actions are free in combat	战斗中 3 次潜行免费
+Lose 1000 Gold	失去 1000 金币
+Say thanks and walk away	道谢并离开
+No one gets hurt	没人受伤
+Fallen Warrior	倒下的战士
+You find a wounded warrior lying on the road. He begs for your help.	你发现一名受伤的战士倒在路上，他恳求你的帮助。
+Help the warrior	帮助他
+Gain 10 Defense	防御 +10
+Lose all your healing potions	失去所有治疗药水
+Refuse to help	拒绝帮助
+Keep your potions	保留药水
+Song of the Crow	乌鸦之歌
+A talking crow chants from atop a tree. It offers you two strange blessings.	一只会说话的乌鸦从树上吟唱，给你提供两种奇异的祝福。
+Prayer of Evasion	闪避祈祷
+Evasion points +5	闪避 +5
+-5 Critical Chance	暴击 −5
+Prayer of Power	力量祈祷
+Attack points +5	攻击 +5
+Defense points-5	防御 −5
+Vision from the Future	未来的幻象
+A mysterious fortune teller offers to read your future—for a price.	一个神秘的占卜师愿意为你占卜未来——当然，要付费。
+Accept the reading	接受占卜
+Trap Evasion +10	陷阱闪避 +10
+Lose 800 Gold	失去 800 金币
+Refuse her offer	拒绝她的提议
+Nothing worse happens	没有更糟的事发生
+Defense points -50%	防御 −50%
+Etched Target	石刻的地图
+You find a map etched onto a flat stone pointing toward a nearby cave. Will you follow it?	你发现一块平石上刻着指向洞穴的地图。你要跟随吗？
+Follow the map	跟随地图
+Gain 500 Gold	获得 500 金币
+The rock exploded—but you lived	石头爆炸了——但你活下来了
+Gift of the Mist	迷雾的馈赠
+A glowing mist reaches out a hand, offering to trade your memories. Will you accept?	发光的迷雾伸出一只手，似乎要交换你的记忆。你要接受吗？
+Accept the trade	接受交易
+Critical Chance +15%	暴击率 +15%
+You lost 20% of your XP	失去 20% 经验
+Walk through the mist	穿过迷雾
+Critical Chance +3%	暴击率 +3%
+-50% Health	生命值 −50%
+Lucky Cat	幸运猫
+A black cat approaches, its medallion ominously glowing.	一只黑猫走近，挂坠散发着不祥的光芒。
+Inspect the medallion	检查挂坠
+Critical Chance +5	暴击率 +5
+Chase it off	赶走它
+Karma reset to 0	业力重置为 0
+Critical Chance set to 0	暴击率重置为 0
+Dwarven Trader	矮人商人
+A dwarf is selling goods on a rock, trading for Dwarf Coins.	一个矮人在岩石上卖货，用矮人币交易。
+Spend Dwarf Coins	花费矮人币
+Gain 1000 Gold	获得 1000 金币
+Lose 10 Dwarf Coins	失去 10 枚矮人币
+Buy Dwarf Coins	购买矮人币
+Gain 10 Dwarf Coins	获得 10 枚矮人币
+-20% Max HP	最大生命值 −20%
+Stone Merchant	石头商人
+A stone merchant showcases beautiful stones at a fair price.	一个石头商人展示着漂亮的石头，价格公道。
+Buy Stones	购买石头
+Gain 50 Stones	获得 50 石头
+Lose 500 Gold	失去 500 金币
+Pass for now	暂时不买
+Gain 5 Stones	获得 5 石头
+Scent of Sawdust	木屑的气味
+You hear the sounds of a nearby lumber camp. Want to grab some wood?	你听到附近伐木营地的声音。要买点木头吗？
+Buy wood	购买木头
+Gain 50 Wood	获得 50 木头
+Move along	离开
+Gain 5 Wood	获得 5 木头
+A Deal with the Devil	与恶魔的交易
+A demonic figure appears from the darkness, offering a dark pact.	一个恶魔般的身影从黑暗中出现，提出一个黑暗的契约。
+Accept the deal	接受交易
+Attack points +10	攻击 +10
+-50% Max HP	最大生命值 −50%
+Evasion and Crit Chance set to 0	闪避与暴击率重置为 0
+Blessing of the Elders	长者的祝福
+You meet an ancient nun who radiates peace. You feel truly calm for the first time in ages.	你遇到一位散发平静气息的修女。你感到前所未有的宁静。
+Thank her	感谢她
+Fully restore Health & Action	完全恢复生命与行动力
+No negative effect	没有负面效果
+Eliminate the nun	杀死修女
+Critical Chance +25%	暴击率 +25%
+Karma points +5	业力点数 +5
+Blocked Road	被封锁的道路
+Bandits have blocked the road with barricades. It looks dangerous.	强盗用路障封住了前路，看起来很危险。
+Charge through	强行突破
+XP points +10%	经验 +10%
+Sneak past	偷偷通过
+A Tough Duel	艰难的决斗
+A knight in shining armor invites you to a fair duel. Could be worth it.	一位闪亮盔甲的骑士邀请你进行一场公平的决斗，也许值得一试。
+Accept the duel	接受决斗
+XP points +20%	经验 +20%
+-20% Health	生命值 −20%
+Push your luck	冒险一搏
+Rampaging Bull	狂暴的公牛
+A wild bull charges at you while villagers scream for help.	一头野牛向你冲来，村民们在尖叫求救。
+Try to stop it	试图阻止
+-10% Max HP	最大生命值 −10%
+Get out of the way	躲开
+Black Gold	黑金
+A shadowy figure speaks to you from the dark. A genie sits atop a golden chest.	一个阴影中的身影从黑暗中向你说话，一个精灵坐在金箱上。
+Sell Black Gold	出售黑金
+Max HP points +20%	最大生命值 +20%
+Lose 5 Black Gold	失去 5 黑金
+Bleed for Gold	以血换金
+Gain 5 Black Gold	获得 5 黑金
++1 Movement Dice	+1 移动骰子
+-1 Movement Dice	−1 移动骰子
+Sneak for Free	潜行无消耗
+Cannot Sneak	无法潜行
++2 Sneak Cost	+2 潜行消耗
++2 Movement Dice	+2 移动骰子
+Reduced Food Healing -50%	食物恢复效果 −50%
+Restores +50% from Food	食物恢复效果 +50%
+Can't Eat Foods	无法进食
+-50% Trap Damage	陷阱伤害 −50%
+x2 Gold Collection	金币获得 ×2
++1 Gold Per Movement Dice	每次移动骰子 +1 金币
+-1 Gold Per Movement Dice	每次移动骰子 −1 金币
+Shop Prices -25%	商店价格 −25%
+Shop Prices +25%	商店价格 +25%
++100 Gold per Shop Visit	每次进入商店 +100 金币
++25% Max Health	最大生命值 +25%
+-25% Max Health	最大生命值 −25%
++20% Damage	伤害 +20%
+-20% Damage	伤害 −20%
++10% Critical Chance	暴击率 +10%
+Cannot Crit	无法造成暴击
+Start with 50% Crit Chance	初始暴击率 50%
+Start with +10 Defense	初始防御 +10
+Start with 0 Defense	初始防御 0
+Start with 25% Evade	初始闪避率 25%
+Start with 0% Evade	初始闪避率 0%
+-1 movement dice until the end of the turn	直到回合结束，移动骰子 −1
+You take 2x damage from traps until the end of the turn	直到回合结束，陷阱造成的伤害 ×2
+Enemies deal 2x damage until the end of the turn	直到回合结束，敌人造成的伤害 ×2
+Forest Rat	森林鼠
+Wood Imp	木灵小鬼
+Forest Bandit	森林强盗
+Green Spider	绿色蜘蛛
+Spider Egg	蜘蛛卵
+Rocky	岩石怪
+Forest Spirit	森林之灵
+Bandit Leader	强盗头目
+A simple forest rat. An easy foe for anyone with even a little combat know-how.	普通的森林老鼠。对任何稍懂战斗的人来说都是个容易的敌人。
+A mysterious creature dwelling in the forest. It wields the powers of the woods.	栖息于森林的神秘生物。操纵森林之力。
+A bandit who has made the forest his home. A member of a larger group.	把森林当作根据地的强盗。属于更大团伙的一员。
+A venom spitting creature. It lies in wait for prey deep within the forest.	会喷吐毒液的生物。潜伏在森林深处等待猎物。
+A sticky egg. A spider will hatch from it soon.	黏糊糊的卵。很快会有一只蜘蛛从中孵化出来。
+A sneaky creature often mistaken for an ordinary rock.	常被误认为普通石头的狡猾生物。
+The ghost of the forest. A difficult foe for the unprepared.	森林之魂。对毫无准备的人来说是个棘手的对手。
+The master of the forest. The mastermind behind every trouble here. Extremely dangerous.	森林的主宰。此地一切祸患的首领。极其危险。
+Swamp Thing	沼泽怪
+Mosquito	蚊子
+Mud Folk	泥人族
+Mud Worm	泥沼蠕虫
+Bog Witch	沼泽女巫
+Ghastly Leech	幽灵水蛭
+Sticky Lump	黏糊团块
+Moss Golem	苔藓魔像
+This creature prowls the filthiest reaches of the marsh, driving unwelcome visitors to a painful death with its poisoned arrows.	这只生物游荡在沼泽最污秽的地带，用带毒的箭将不速之客推向痛苦的死亡。
+This filthy bloodsucker feeds on its enemies’ blood. It moves swiftly and strikes at weak spots.	这只肮脏的吸血者以敌人的鲜血为食。行动迅速，专攻要害。
+The swamp’s burly, heavy-hitting folk. They smash through shields with powerful blows and leave foes stunned.	沼泽部族中高大强壮的一员。以强力重击粉碎护盾，并使敌人陷入眩晕。
+A sticky creature. Its sharp claws draw blood, and its thick hide bolsters its defense.	黏性的生物。锋利的爪子令敌人流血，厚实的皮肤提升其防御。
+One of the region’s most feared figures. Cripples her foes with dreadful spells.	此区最令人畏惧的存在之一。以骇人的法术令敌人无力反抗。
+Another revolting creature. It drains an opponent’s blood to empower itself and is extremely poisonous.	又一个令人作呕的怪物。汲取敌人的血液以强化自身，而且剧毒无比。
+A lump that holds all the region’s filth. If not destroyed in time, it erupts in a disgusting explosion.	汇聚本区所有污秽的团块。若不及时摧毁，将引发一场恶心的爆炸。
+The lord of the swamp. None hear its rumble without fear. It lets no one pass when defending its territory.	沼泽的主宰。凡是听到它的低吼者无不心生惧意。守卫领地时，绝不让任何人通过。
+Cliff Dweller	悬崖居者
+Stone Gremlin	石之小鬼
+Mountain Boar	山野猪
+Echo Bat	回声蝙蝠
+Lost Miner	迷失的矿工
+Wind Spirit	风之精灵
+Thorn Bush	荆棘丛
+Titan of The Peak	巅峰泰坦
+Hosts of the sheer cliffs. Fast and agile, a difficult foe to handle.	陡崖的主人。迅捷灵活，难以应对的敌人。
+A peculiar species dwelling deep within the mountain. Generally very irritable and aggressive.	栖息于山体深处的奇特物种。通常非常暴躁且好斗。
+Trained for battle, this boar’s tusks can pierce even the toughest armor.	为战斗而训练，这头野猪的獠牙甚至能刺穿最坚硬的护甲。
+Emits shrieks so piercing they can drive you mad. Staying sane in its presence is difficult.	发出足以令人发狂的刺耳尖啸。在它面前保持清醒极为困难。
+Workers lost in the old mines, now doing nothing but trying to guard what remains.	这些在旧矿井中迷失的工人，如今只是在守护残存之物。
+The cold winds have taken shape, appearing before you to set your hairs on end.	峰顶的寒风化作实体，出现在你面前，让你不寒而栗。
+A thorny bush on the battlefield. Every time you attack, it hurts you too.	战场上的荆棘灌木。你每次进攻时，它也会伤到你。
+The mountain’s summit has seen enough and can endure no more. How do you fight a mountain?	山巅已看尽一切，已无法再忍。你要如何与一座山作战？
+Sand Crawler	沙地爬行者
+Dune Raider	沙丘掠夺者
+Heat Mirage	热蜃景
+Vulture Kinglet	秃鹫小王
+Bone Wanderer	白骨流浪者
+Blazing Idol	烈焰神像
+Sand Revenant	沙漠怨灵
+Lives beneath the hot sands. It has tough armor and a head hard as concrete.	生活在炽热的沙层之下。身披坚硬甲壳，头如混凝土般坚固。
+A unit that has made the desert its home. A true warrior through and through.	一个以沙漠为家的战士。彻头彻尾的真正勇士。
+The heat’s gone to your head. Is this foe a mirage or the real thing? You’ll find out soon.	炎热让你头昏目眩。这名敌人是海市蜃楼还是真实存在？很快就知道了。
+It has grown powerful by feeding on those who die in the desert. To face it is as good as death.	因吞食沙漠中的亡者而变得极其强大。与之相遇几乎等同于死亡。
+The hot winds have scoured flesh from its bones, yet it still fights on.	炙热的风已将其血肉从骨上剥离，但它仍在战斗。
+A buried treasure turned into a troublesome foe. You’ll need truly powerful strikes to pierce its steel-like armor.	被埋藏的宝物化作了难缠的敌人。要刺破它钢铁般的护甲，需要真正强力的打击。
+A curse thousands of years old. It will let no one cross the desert alive. A truly formidable foe.	延续千年的诅咒。绝不让任何人活着穿越沙漠。的确是个强大的敌人。
+Emberling	余烬小灵
+A mischievous whelp born of fire. With flaming fists, it burns foes to ash.	由火焰诞生的顽童。以炽焰之拳将敌人烧成灰烬。
+Charred Hound	焦炭猎犬
+Not a normal animal. It’s both feral and scorching. The only thing it wants to eat is your bones.	它不是普通的野兽。既凶残又灼热。它唯一想吃的，就是你的骨头。
+Magma Crab	岩浆蟹
+A crab grown in lava. Naturally very strong and fiery, too.	在岩浆中成长的螃蟹。天生强悍，而且炽热难当。
+Burnt Acolyte	焦灼侍从
+A cultist who worships fire. Wields all manner of flame magic. Not too hard but don’t underestimate them.	崇拜火焰的教徒。擅使各类火焰法术。不算太难，但别小看他。
+Infernal Colossus	炼狱巨像
+The chief gatekeeper of Hell’s door. Forget everything you’ve seen so far this is real trouble.	地狱之门的首席守卫。把之前见过的都忘了，这才是真正的麻烦。
+Tomb	古墓
+A grave with no name upon it. Best tear it down as soon as possible.	一座没有名字的坟墓。最好尽快将其摧毁。
+Hollow Knight	空壳骑士
+Guardian of the shadow realm. Will do whatever it takes to claim your life as well.	阴影国度的守护者。也会不择手段夺走你的性命。
+Specter	幽灵
+It has returned from death. Now it seeks to drag everyone down with it before it dies again.	它从死亡中归来。现在想在再次死去之前把所有人一同带走。
+Bone Seer	白骨先知
+If there’s one thing it hates more than the dead, it’s the living.	若有比亡者更令其憎恨的东西，那就是生者。
+Black Raven	黑乌鸦
+The realm’s toughest fighters. Experts in offense, defense, and evasion. A hard fight awaits.	此境最强悍的战士。精通进攻、防御与闪避。将是一场硬仗。
+The Forgotten King	被遗忘的国王
+What could be more dangerous than a forgotten king? He will test every dark art upon you.	有什么比被遗忘的国王更可怕？他会把所有黑暗术式都施加在你身上。
+Shore Stalker	海岸潜行者
+Its body has been reshaped by the pounding shore. It’ll hit hard enough to drag you under.	身躯被海岸的拍击反复塑形。它会重击到足以把你拖入深处。
+Barnacle Ghoul	藤壶食尸鬼
+Emerged from the dark waters The ghost of old wrecks. Blades often pass straight through it.	自黑暗之水中现身，古老沉船的幽灵。刀剑常常直接穿过它。
+Abyssal Husk	深渊躯壳
+Barnacles grow in filthy depths and this is the foulest you’ll see. Better break the hard shell before it opens.	藤壶生于污浊的深处 而这只最为肮脏。最好在硬壳开启前将其击碎。
+Neural Drifter	神经漂游者
+A soft-bodied foe living inside a hard shell. Its softness doesn’t mean it will be soft on you.	住在坚硬外壳中的软体敌人。它的“柔软”并不代表对你也会手下留情。
+Tidebound Totem	潮汐图腾
+Bound by ancient rites and cast into the dark waters. Even that didn’t kill it. Can you?	被古老仪式束缚后抛入黑暗之水。连这样都没能杀死它。你可以吗？
+Leviathan Herald	利维坦的先驱
+It came from the deep to be your end. It probably will be. A painful death awaits you.	它自深海而来，为终结你而至，多半会得逞。等待你的将是痛苦的死亡。
+Moss Totem	苔藓图腾
+Grants its leader Health each turn. Poisons the opponent when destroyed.	每回合为其首领提供生命值。被摧毁时会使对手中毒。
+Blood Pile	血之堆
+Grants its leader +5% Health each turn. When it fully forms, who knows what will emerge?	每回合为其首领提供+5% 生命值。当其完全成形时，谁也不知道会蹦出什么。
+Bat	蝙蝠
+Wolf	狼
+Cat	猫
+Turtle	乌龟
+Frog	青蛙
+Bird	鸟
+Bat Bat Bat Bat Bat Bat	蝙蝠 蝙蝠 蝙蝠 蝙蝠 蝙蝠 蝙蝠
+Wolf Wolf Wolf Wolf Wolf Wolf	狼 狼 狼 狼 狼 狼
+Cat Cat Cat Cat Cat Cat Cat	猫 猫 猫 猫 猫 猫 猫
+Turtle Turtle Turtle Turtle Turtle	乌龟 乌龟 乌龟 乌龟 乌龟
+Frog Frog Frog Frog Frog Frog	青蛙 青蛙 青蛙 青蛙 青蛙 青蛙
+Bird Bird Bird Bird Bird Bird Bird	鸟 鸟 鸟 鸟 鸟 鸟 鸟
+Basic Attack	基础攻击
+Deal damage equal to your attack stat to the chosen enemy.	对选定的敌人造成等同于你的攻击属性的伤害。
+Basic Defense	基础防御
+Create a shield equal to your defense stat.	生成等同于你的防御属性的护盾。
+Basic Evasion	基础闪避
+Dodge the attack with a chance equal to half of your Evasion Points.	有相当于闪避点数一半的几率闪避攻击。
+Heavy Strike	重击
+Deal 25% more damage than your attack stat.	造成比你的攻击属性高25%的伤害。
+Wide Slash	横扫
+Deal 50% of your attack stat to all enemies and apply bleed.	对所有敌人造成等同于你攻击属性50%的伤害并施加流血。
+Rest	休息
+Gain 1 battle point and restore 15% of your max health.	获得1点战斗点数并恢复你最大生命值的15%。
+Restore health equal to your defense stat.	恢复等同于你的防御属性的生命值。
+Defense Mastery	防御精通
+Blind Strike	盲击
+Deal random damage to all enemies.	对所有敌人造成随机伤害。
+Psychopath	疯魔
+Perform a Basic Attack. If it critically hits, restore 20% health.	进行一次基础攻击；若造成暴击，恢复20%生命值。
+Focus	专注
+Increase critical hit chance by 50%.	暴击几率提高50%。
+Sacrifice	牺牲
+Lose 25% health and gain 3 battle points.	失去25%生命值并获得3点战斗点数。
+Retreat	撤退
+Gain Basic Defense and restore 25% of your health.	获得基础防御并恢复你25%的生命值。
+Death Blow	绝命一击
+Deal 4x your attack stat in damage.	造成等同于你攻击属性4倍的伤害。
+Battle Cry	战吼
+Gain 2 battle points.	获得2点战斗点数。
+The Price	代价
+Lose 25% of your health, then deal damage equal to your attack stat to all enemies.	失去你25%的生命值，然后对所有敌人造成等同于你攻击属性的伤害。
+Solid Stance	坚定架势
+Doubles your defense stat.	使你的防御属性翻倍。
+Flawless Evasion	完美闪避
+Dodge the attack with a chance equal to your Evasion Points.	有相当于闪避点数的几率闪避攻击。
+Double Blow	双重打击
+Deal twice your attack stat in damage.	造成等同于你攻击属性2倍的伤害。
+Perfect Strike	完美一击
+Deals critical hit damage and grants Basic Defense.	造成暴击伤害并获得基础防御。
+Forward Strike	前突一击
+Deal damage equal to your attack + defense stats combined.	造成等同于你的攻击+防御属性总和的伤害。
+Nature’s Boon	自然之赐
++20% healing per enemy on the battlefield.	战场上每个敌人使治疗效果 +20%。
+Forest Ward	森林之盾
+Grants Defense equal to 25% of your Health.	赋予等于你生命值 25%的防御。
+Piercing Strike	穿刺打击
+Deals double damage and inflicts Bleed.	造成双倍伤害并施加出血。
+Toxic Smack	毒性重击
+Poisons all enemies on the battlefield.	使战场上的所有敌人中毒。
+Toxic Heal	毒性治疗
+Restore 10% Health for each poisoned enemy.	每有一个中毒的敌人，恢复 10% 生命值。
+Poison Effect	中毒效果
+While Poisoned, you deal double damage.	处于中毒状态时，造成双倍伤害。
+Mountain Guard	山岳防御
+Creates a shield equal to your Double Defense.	生成等于防御值两倍的护盾。
+Avalanche Strike	雪崩打击
+Stuns all enemies on the battlefield.	眩晕战场上的所有敌人。
+War Drum	战鼓
+Gain 3 Battle Points.	获得 3 点战斗点数。
+Desert Wind	沙漠之风
+Weakens all enemies on the battlefield.	削弱战场上的所有敌人。
+Desert Phantom	沙漠幽灵
+Instantly kills the selected enemy.	瞬间击杀选定的敌人。
+Barren Assault	荒原突袭
+Deals double damage to all weakened enemies.	对所有虚弱的敌人造成双倍伤害。
+Meteor Shower	流星雨
+Deals basic damage to all enemies and applies Burn.	对所有敌人造成基础伤害并施加灼烧。
+Ash Storm	灰烬风暴
+All enemies affected by Burn are stunned and weakened.	所有处于灼烧状态的敌人被眩晕并虚弱。
+Born from Ashes	浴火重生
+Restore 50% of your Health and gain basic Defense.	恢复50%生命值并获得基础防御。
+Shadow Pact	暗影契约
+Deals Critical damage to all enemies on the battlefield.	对战场上的所有敌人造成暴击伤害。
+Blood Price	血之代价
+Deals double damage and steals Health equal to 50%	造成双倍伤害，并吸取相当于伤害值 50% 的生命值。
+Dark Strike	暗影打击
+Frightens all enemies on the battlefield.	使战场上的所有敌人陷入恐惧。
+Treasure of the Depths	深渊宝藏
+Gain 2 Battle Points and basic Defense.	获得 2 点战斗点数并提供基础防御。
+Iron Anchor	铁锚
+Gain Basic Shield per enemy on the battlefield.	战场上每有一个敌人，获得基础护盾。
+Tsunami	海啸
+Deal damage equal to 6× your Attack.	造成等于攻击力 6 倍的伤害。
+Defensive Tactic	防御战术
+Grants shield equal to your dodge chance.	提供等同于躲避率的护盾。
+Sharp Eye	锐利之眼
+Deals double damage if the enemy is bleeding.	如果敌人处于流血状态，则造成双倍伤害。
+Fearsome Strike	可怕打击
+Deals critical damage and frightens the enemy.	造成暴击伤害并使敌人恐惧。
+Shield Breaker	破盾者
+Destroys 25% of the opponent's shield.	摧毁对手25%的护盾。
+Dazing Blow	眩晕打击
+Performs a basic attack and stuns the enemy.	进行基础攻击并使敌人眩晕。
+Intimidate	威慑
+Applies a debuff to the selected enemy.	对选定敌人施加减益效果。
+Fresh Start	全新开始
+Cleanses all negative effects.	清除所有负面状态。
+Merciless	残忍
+Deals double damage to debuffed enemies.	对处于减益状态的敌人造成双倍伤害。
+Berserk	发狂
+Deals random damage and effects to all enemies.	对所有敌人造成随机伤害和效果。
+Butcher	屠夫
+Applies bleed to all stunned enemies.	对所有眩晕的敌人施加流血。
+Bloodsucker	吸血者
+Performs a basic attack and heals self by 10%.	进行基础攻击并回复10%生命值。
+Shield Bash	盾牌猛击
+Deals damage equal to your active shield.	造成等同于当前护盾值的伤害。
+Fireball	火球术
+Deals basic damage and applies burn.	造成基础伤害并施加燃烧。
+Poison Arrow	毒箭
+Deals critical damage and applies poison.	造成暴击伤害并施加中毒。
+Shield Piercer	穿盾者
+Ignores enemy defense and deals damage.	无视敌人防御并造成伤害。
+Shield Crusher	碎盾者
+Destroys all defense if the enemy is stunned.	如果敌人被眩晕，则摧毁其全部防御。
+Super Focus	超级专注
+Increase critical hit chance by 100%.	暴击率提高100%。
+Catch Breath	喘息
+Gain 1 battle point.	获得1点战斗点数。
+Great Carnage	大屠杀
+Deals critical damage to all enemies on the battlefield.	对战场上的所有敌人造成暴击伤害。
+Critical Damage	暴击伤害
+Dodge	闪避
+Blocked	格挡
+Bleeding	流血
+Burning	燃烧
+Poisoned	中毒
+Growing	成长
+Hiding	潜伏
+A Lovely Campsite	美丽的营地
+You found a beautiful spot to rest and refresh yourself.	你找到一个美丽的地方休息并恢复精力。
+Your health and action points are fully restored.	你的生命值和行动点完全恢复。
+A Minor Accident	小意外
+While walking, you stumbled on a small rock and sprained your ankle.	行走时你被一块小石头绊倒，扭伤了脚踝。
+-1 movement dice until the end of the turn.	直到本回合结束，移动骰子 -1。
+Treasure on the Road	路上的宝藏
+Your eyes caught a gold pouch in the middle of the road. It seems full.	你的目光捕捉到路中央的一个金袋，看起来很满。
+You found 100 gold.	你找到 100 金币。
+An Unfortunate Day	不幸的一天
+The bottom of the gold pouch is torn. Everything inside has spilled everywhere.	金袋的底部破了，里面的东西全都洒出来了。
+You lost half of your gold.	你失去了你一半的金币。
+The Scent of Trouble	麻烦的气息
+There’s a tense smell in the air. It’s wise to stay alert.	空气中弥漫着紧张的气味。保持警惕是明智的。
+You take 2x damage from traps until the end of the turn.	直到本回合结束，你从陷阱中受到的伤害翻倍。
+The Eerie Path	诡异的小径
+Every corner today seems filled with trouble. Tensions are high, and tempers are short.	今天的每个转角似乎都充满麻烦。气氛紧张，脾气暴躁。
+Enemies deal 2x damage until the end of the turn.	敌人的伤害在本回合结束前翻倍。
+Blessing of Health	健康的祝福
+You’ve been blessed by a divine force. Shifa has bestowed their favor upon you.	你受到神圣力量的祝福。希法赐予了你恩惠。
+Your maximum health increases by 10%.	你的最大生命值提高 10%。
+A Rusty Trap	生锈的陷阱
+Your foot gets caught in an old hunter’s trap. It doesn’t hurt much, but you can’t move properly.	你的脚被旧猎人陷阱夹住。虽然不太疼，但你无法正常移动。
+Traps are disabled until the end of the turn.	陷阱在本回合结束前被禁用。
+A Dark Whisper	黑暗的低语
+A mysterious voice echoes in your head, offering you power in exchange for your soul.	一个神秘的声音在你脑海中回荡，用灵魂换取力量。
+Lose 20% health, gain 50% attack for the end of turn.	失去 20% 生命值，获得 50% 攻击力直到回合结束。
+Lucky Clover	幸运的四叶草
+You find a lucky four-leaf clover hidden in the grass.	你在草丛中找到了一株幸运的四叶草。
+Your next dice roll is guaranteed to be the highest possible.	你的下一个骰子掷出保证是最大值。
+A Sudden Storm	突如其来的暴风雨
+Heavy rain pours down, making travel more difficult.	大雨倾盆，使旅程更加困难。
+Movement dice results are halved for the end of turn	移动骰子的结果在本回合结束前减半。
+A Hidden Shortcut	隐藏的捷径
+You notice a small hidden path that seems to lead ahead.	你注意到一条隐藏的小路，似乎能通向前方。
++2 movement dice until the end of the turn.	直到本回合结束，移动骰子 +2。
+A Black Cat	黑猫
+A black cat crosses your path. Good or bad omen?	一只黑猫从你面前走过。是好兆头还是坏兆头？
+Lose 10 Evade for the end of turn.	直到本回合结束，闪避 -10。
+The Blessing of Fortune	财富的祝福
+A divine entity bestows its luck upon you.	一个神圣的存在将好运赐予你。
+Gain x2 gold from all chests for the end of turn.	直到回合结束，从所有宝箱中获得的金币翻倍。
+A Familiar Face	熟悉的面孔
+You meet an old ally on the road. They offer their help.	你在路上遇到一位老朋友。对方向你提供帮助。
+Recover 50% of your health.	恢复 50% 生命值。
+Cursed Ground	被诅咒的土地
+The air feels heavy, as if something dark lingers here.	空气沉重，仿佛有黑暗力量潜伏。
+Your action points are gone	你的行动点已被耗尽。
+A Merchant’s Favor	商人的好意
+A kind-hearted merchant sees potential in you.	一位善良的商人看到了你的潜力。
+Gain 500 gold.	获得 500 金币。
+The Fountain of Clarity	清明之泉
+You drink from a mysterious spring, feeling a surge of power.	你喝下一口神秘的泉水，感到力量激增。
+Your battles starts with a 50% attack boost for the end of turn.	你的战斗在本回合开始时获得 50% 攻击提升。
+A Sinister Deal	邪恶的交易
+A shadowy figure offers you a risky trade.	一个阴影中的人物向你提出危险的交易。
+Exchange half your health for +500 gold.	用一半生命值换取 +500 金币。
+Ancient Ruins	古代遗迹
+You explore old ruins and uncover hidden knowledge.	你探索了古老的遗迹，发现了隐藏的知识。
+Gain 20% XP.	获得 20% 经验值。
+Guardian’s Favor	守护者的恩惠
+A celestial being shields you from harm.	一个天界存在保护你免受伤害。
+Gain a temporary 100% defense buff for the end of turn.	直到回合结束，获得临时 100% 防御加成。
+The Buried Cache	埋藏的箱子
+You stumble upon a buried chest.	你偶然发现一个埋藏的宝箱。
+You found 20 wood, 20 stone, 200 Gold	你获得 20 木材、20 石头、200 金币。
+Shadowy Figures	阴影中的身影
+Strange shapes move in the distance, making you uneasy.	远处的奇怪身影让你感到不安。
+Your evasion chance drops by 15% for the end of turn.	直到本回合结束，闪避率降低 15%。
+A Mysterious Statue	神秘的雕像
+The stone statue before you hums with energy.	你面前的石像发出充满能量的嗡鸣声。
+Gain a temporary +10 defense buff for the end of turn.	直到回合结束，获得 +10 防御加成。
+A Sudden Inspiration	突如其来的灵感
+You feel an overwhelming sense of clarity.	你感受到一阵强烈的清明感。
+Your action points are restored to full.	你的行动点完全恢复。
+A Whisper in the Wind	风中的低语
+An ancient voice calls your name, warning of impending danger.	一个古老的声音呼唤你的名字，警告即将到来的危险。
+Sneak has no cost until the end of the turn.	直到本回合结束，潜行无消耗。
+Hidden Gold Stash	隐藏的金库
+You find a pile of gold hidden under some rocks.	你在石头下发现一堆隐藏的金币。
+Gain 200 gold.	获得 200 金币。
+A Mysterious Map	神秘的地图
+A tattered map hints at a treasure nearby.	一张破旧的地图暗示附近有宝藏。
+You found 2 keys.	你找到 2 把钥匙。
+A Flickering Flame	闪烁的火焰
+A candlelight flickers in the distance, guiding your path.	远处的烛光在闪烁，引导着你的道路。
+Until the end of the turn, traps have a 50% chance to not trigger.	直到本回合结束，陷阱有 50% 几率不触发。
+Mystic Fog	神秘的迷雾
+A thick fog surrounds you, limiting your vision.	浓雾笼罩四周，视线受限。
+All movement dice roll 1 until the end of the turn.	直到本回合结束，所有移动骰子都掷出 1。
+A Fading Echo	渐逝的回声
+You hear voices from the past, but cannot understand them.	你听到过去的声音，但无法理解。
+The words mean nothing to you.	这些话对你毫无意义。
+A Sudden Earthquake	突发地震
+The ground shakes violently beneath your feet.	地面剧烈摇晃。
+Lose 10% health.	失去 10% 生命值。
+A Sly Trickster	狡猾的骗子
+A mischievous creature steals from your bag.	一个顽皮的生物偷走了你包里的东西。
+Lose 100 Ink.	失去 100 墨水。
+A Well-Timed Rest	恰到好处的休息
+You find a quiet place to recover.	你找到一个安静的地方恢复体力。
+Gain 25% health.	恢复 25% 生命值。
+A Forgotten Tome	被遗忘的典籍
+A book filled with unknown symbols.	一本充满未知符号的书。
+Gain 200 Ink	获得 200 墨水。
+The Chill of Death	死亡的寒意
+A sudden cold fills your bones.	突如其来的寒意侵入骨髓。
+Your max health is reduced by 10%	最大生命值降低 10%。
+A Mysterious Elixir	神秘的药剂
+A bubbling potion catches your eye.	一个冒泡的药水吸引了你的注意。
+Your HP is fully restored, and all conditions have been cured.	你的生命值完全恢复，所有异常状态被治愈。
+A Dangerous Shortcut	危险的捷径
+A tempting shortcut appears ahead.	前方出现一条诱人的捷径。
+Movement dice get +2 until the end of the turn, at the cost of 20% of your health.	直到本回合结束，移动骰子 +2，但失去 20% 生命值。
+The Watchful Crow	注视的乌鸦
+A crow watches you closely, as if judging your fate.	一只乌鸦注视着你，仿佛在评判你的命运。
+Gain 2 Karma Points	获得 2 业力点。
+The Final Warning	最后的警告
+A mysterious warning appears carved in stone.	一条神秘的警告刻在石头上。
+Your evasion chance increases by 10%.	闪避率提高 10%。
+A Pungent Scent	刺鼻的气味
+You found a lush patch of healing herbs.	你发现了一片长满治疗药草的绿地。
+You found 10x Herb	获得了 10x 药草
+Hunting Grounds	狩猎场
+Animals wander around with shiny, well-groomed hides.	动物们四处游荡，披着闪闪发光、保养得当的皮毛。
+You found 10x Leather	获得了 10x 皮革
+A Lucky Accident	幸运的意外
+You see an overturned cart in front of you. It's full of shiny metal.	你看到前面有一辆翻倒的马车。里面装满了闪闪发光的金属。
+You found 10x Iron Bar	获得了 10x 铁锭
+Slippery and Sticky	又滑又黏
+There are abandoned barrels lying around. Their contents are just as precious.	周围散落着一些废弃的木桶。里面的东西可是相当珍贵。
+You found 20x Glue	获得了 20x 胶水
+Adventurer's Survey	冒险者问卷调查
+A young dwarf stops you. Good pay for a short job.	一个年轻的矮人拦住了你。活儿不长，报酬倒是不错。
+You found 4x Medium Life Nectar	获得了 4x 中级生命花蜜
+Gold Mine	金矿
+Ink Mine	墨矿
+Ranger Camp	游侠营地
+Tavern	酒馆
+Barracks	兵营
+Blacksmith	铁匠铺
+Farm	农场
+Statue	雕像
+Market	集市
+Young wolves are always ready for anything.	年轻的狼总是随时准备迎接一切。
+War never changes. Soldiers die, soldiers are born.	战争从未改变。士兵死去，士兵诞生。
+The blacksmith forges not only iron but also himself.	铁匠不仅锻造铁，也锻造自己。
+A warm meal heals every wound.	一顿热饭能治愈所有伤口。
+Gold holds its value in any situation, even at the end of the world.	黄金在任何情况下都有价值，即使在世界末日。
+You’ll need this to rewrite destiny.	你需要它来重写命运。
+Starting Health	初始生命值
+Ink Per Run	每局墨水
+Gold Per Run	每局金币
+Starting Defense	初始防御
+Starting Damage	初始伤害
+Starting Evade Chance	初始闪避几率
+Background	背景
+Not Selected	未选择
+Inventory	物品栏
+Roll	掷骰
+Back To Home	返回家园
+Start Adventure	开始冒险
+Stats	属性
+Health	生命值
+Attack	攻击
+Defense	防御
+Critical Chance	暴击几率
+Evasion	闪避
+Level Up!	升级！
+Choosen One	天选之子
+Hereditary Trait	遗传特质
+Birth Sign	出生符记
+Breeding Ceremony	繁衍仪式
+Critical	暴击
+Resistances	抗性
+Fear	恐惧
+Damage Reduction	伤害减免
+Poison	中毒
+Burn	灼烧
+Generation	世代
+Base	基础
+Perks	特质
+Items	物品
+Genetic Perk	遗传特质
+Level	等级
+Fathers	父亲
+Mothers	母亲
+Buildings	建筑
+Select Background	选择背景
+Crafting	制作
+Legacy of Heroes	英雄的传承
+Adventure Map	冒险地图
+Active Effects	当前效果
+Hero Details	英雄详情
+Close	关闭
+Continue	继续
+Sneak	潜行
+Leave	离开
+Start Battle	开始战斗
+Use Lockpick	使用撬锁器
+Use Key	使用钥匙
+Try Unlock	尝试开锁
+Sneak Chance	潜行几率
+Sneak Success!	潜行成功！
+Sneak Failed!	潜行失败！
+Hold for Breeding	长按以繁衍
+End Turn	结束回合
+You can't breed a new hero while you already have one!	你已有英雄在场，无法繁衍新的英雄！
+Common	普通
+Rare	稀有
+Epic	史诗
+Legend	传说
+Weak	虚弱
+Stunned	眩晕状态
+You cannot act	你无法行动
+Attack is halved	攻击减半
+You cannot defend	你无法防御
+Building Bonuses	建筑加成
+You gain extra bonuses from <color=#2CEE9C>all the buildings you construct.	你将从<color=#2CEE9C>所有建造的建筑中获得额外加成。
+Quick Feet	快足
+Limp Walker	跛行者
+Shadowborn	影生者
+The Noisy One	吵闹之人
+Clumsy Bones	笨手笨脚
+Runner's Genes	奔跑者基因
+Digestive Problems	消化不良
+Easily Full	易饱体质
+Anorexic	厌食症
+The Careful One	谨慎之人
+Golden Hands	黄金之手
+Golden Eyes	黄金之眼
+Leaky Pocket	漏口袋
+Merchant	商人
+Stutterer	结巴
+Sticky Fingers	黏手
+Healthy Genes	健康基因
+Unhealthy Genes	不良基因
+Heavy Hands	重手
+Weakling	弱不禁风
+Warrior	战士
+Soft Heart	软心肠
+Natural Born Killer	天生杀手
+Iron Body	钢铁之躯
+Paper Body	纸身
+The Butterfly	蝴蝶
+Cumbersome	笨重
+Leveling is the quiet art of getting dangerous. Each level adds small gains stats, perks, the occasional upgrade. You knew that already, didn’t you? Good. Now go earn it.	升级，是让自己悄然变强的艺术。每升一级，你都能获得一些提升：属性、特质，偶尔还有额外升级。这些你早就知道了，对吧？很好，现在就去争取吧。
+Level Up	升级
+World Relics	世界遗珍
+Ancestral Cards	先祖卡
+Legacy & Artifacts	传承与圣物
+World & Locations	世界与地点
+Loot & Items	战利品与物品
+Enemies	敌人
+Action Points	行动点
+Karma Points	业力点
+Battle	战斗
+Lockpick	撬锁
+Luck Cards	幸运卡
+Event Cards	事件卡
+Adventure Foods	冒险食品
+Shops & Merchants	商店与商人
+Collect Resources	采集资源
+Genetic Perks	遗传特质
+Hero Stats	英雄属性
+Currencies	货币
+Town & Buildings	城镇与建筑
+This is where everything begins a child who might bend fate. Heroes aren’t dropped from the sky; we make them here, by pairing parents and letting legacy do its work. Choices, chance, and a pinch of chaos… and, in the end, new heroes are born from this very place.	一切从这里开始：一个或许能改变命运的孩子。英雄不会从天而降；在这里，父母结对，传承延续。选择、机遇，再加上一点混沌……最终，新的英雄就此诞生。
+Home, a little green and a little grim. The town is your anchor: build Smithies, Taverns, Camps, and more to unlock new tools and bonuses. Upgrade structures to amplify your gains each stone you raise makes the next journey kinder (or at least, fairer).	家园有几分葱郁，也有几分阴郁。城镇是你的落脚点：建造铁匠铺、酒馆、营地等建筑，解锁新工具和加成。升级建筑可以提高收益；你砌起的每一块石头，都会让下一段旅程更轻松一些（或至少更公平一些）。
+Who doesn’t love valuables? Gold for trade, Ink for upgrades, and humble resources for crafting. Use what you have with care; spend when it matters. A well‑kept coin is a promise kept for a harsher day.	谁不喜欢值钱的东西呢？金币用于交易，墨水用于升级，普通资源则用于制作。谨慎使用手头的物资，该花的时候再花。今天省下的一枚金币，也许能帮你度过明天的难关。
+A hero without stats is just a villager with a cape. Your attributes define your plan: Health, Attack, Defense, Crit, Evade… Distribute points to match your strategy, not your wishes. Build purposefully; survive longer.	没有属性的英雄，不过是披着披风的村民。生命、攻击、防御、暴击、闪避等属性，决定了你的战斗策略。按照战术需求分配点数，而不是只凭愿望。合理构筑，才能活得更久。
+Blood carries its own stories. Some gifts are bright, some are… complicated. Genetics can pass down quirks, strengths, and little curses. Don’t sulk at a bad roll sometimes a “flaw” is just a different path in disguise.	血脉自有它的故事。有些天赋令人欣喜，有些则……不那么简单。遗传可能传下怪癖、长处，也可能传下一点诅咒。别因为一次运气不好就沮丧；有时所谓的“缺陷”，只是另一条道路。
+In the heat of play it’s easy to forget: the world fights back. Bleed, Burn, Poison, and worse resistances keep you standing. Know what a region favors and tune your defenses accordingly. Reality hurts; preparation helps.	激战之中，别忘了世界也会反击。流血、灼烧、中毒等状态都可能威胁你，而相应的抗性能帮你站稳脚跟。了解各个区域常见的威胁，再有针对性地调整防御。现实很残酷，充分准备总有帮助。
+Stone and wood may not sparkle, but they build your tomorrow. You’ll find them all over the wilds. Bring them back to town, craft useful tools, and push your luck with a sturdier pack.	石头和木头虽然不起眼，却能为你筑起未来。荒野各处都能找到它们。把资源带回城镇，制作实用工具，背上更结实的行囊，再去冒险吧。
+The world turns on trade (not love… well, usually). Merchants stock what you need and what you didn’t know you needed. Haggle if you can, pay when you must just don’t bankrupt tomorrow for a shiny today.	推动世界运转的是交易（而不是爱情……好吧，通常如此）。商人既出售你需要的东西，也出售你还不知道自己需要的东西。能讨价还价就试试，该付钱时也别犹豫；别为了今天的宝贝，花光明天的积蓄。
+Trail snacks, camp meals, risky bites. Not everything is edible, and some heroes have… delicate stomachs. Food can buff, soothe, or ruin your next fight. Chew carefully.	旅途中的零食、营地里的饭菜，还有需要冒险尝试的食物。不是所有东西都能吃，有些英雄的肠胃还格外娇弱。食物可能提供增益、缓解困境，也可能毁掉你的下一场战斗。下口前可要想清楚。
+The road is loud with stories. Events will confront you with choices usually two, never easy. Every option has teeth. Choose what serves your plan… or what your conscience can stomach.	旅途上处处都有故事。事件会让你面临抉择，通常只有两个选项，却都不轻松。每个选择都有代价。选对计划最有利的，或者选一个良心过得去的。
+When luck speaks, our game listens. These cards bless, sting, or simply shove you forward. Sometimes you pick them sometimes they pick you. Either way, ride the current.	幸运发话时，游戏也得听着。这些卡牌可能赐予祝福、带来痛楚，或只是推着你继续前进。有时是你选择卡牌，有时则是卡牌选择你。不管怎样，顺势而行吧。
+Hug the shadows like a cautious squirrel. Slipping past a fight can be the smartest move, though it’s rarely free or guaranteed. If you must sneak, make it count and have a backup plan, because not everyone loves squirrels.	像谨慎的松鼠一样贴着阴影前进。避开战斗有时是最聪明的办法，但通常需要付出代价，也不保证成功。若决定潜行，就要让这次行动物有所值，并准备好后路——毕竟不是所有人都喜欢松鼠。
+Keys are honest; locks are stubborn. If you’ve no key, a pick and a steady hand might do. With the right bit of luck, you’ll open it with your eyes closed. With the wrong bit… well, try not to break the only pick you had.	钥匙很直接，锁却很固执。没有钥匙时，一把撬锁工具加上一双稳健的手，也许就够了。运气好时，闭着眼都能打开；运气不好时……至少别把仅有的撬锁工具弄断。
+Combat is a rhythm you learn: turn‑based, card‑driven, risk‑aware. Gauge intentions, manage your hand, and trade resources for survival. Your energy refreshes each turn but your mistakes linger longer.	战斗有自己的节奏：回合制、以卡牌为核心，还要时刻权衡风险。判断敌人的意图，管理手牌，合理消耗资源以求生存。能量每回合都会恢复，但犯下的错误可能影响更久。
+Everything has a price. Cruel choices raise bad karma; the world grows harsher enemies hit harder, events bite deeper. Doing good can cleanse some of the stain, but don’t expect mercy. Fire warms… and burns.	凡事都有代价。残酷的选择会增加恶业，让世界变得更加严苛：敌人攻击更狠，事件的后果也更严重。行善能洗去一部分污点，但别指望世界因此手下留情。火能取暖，也能灼伤。
+Fuel for slipping, prying, and vanishing. Sneak, Flee, and Lockpick usually consume AP. A small amount refreshes each turn, and you’ll find ways to gain more through food, rest, or clever town upgrades. Spend AP like rope on a cliff: carefully.	行动点（AP）是潜行、撬锁和逃脱时的重要资源。潜行、逃跑和撬锁通常都会消耗行动点。每回合会恢复少量行动点，你也可以通过食物、休息或城镇升级获得更多。使用行动点要像在悬崖边使用绳索一样谨慎。
+Things that adapt, argue, and attack without a reason you’ll agree with. Foes come in many types and tempers; watch their intents and learn their patterns. The right answer changes with the region and with your luck.	敌人会适应、会争执，还可能为了你无法认同的理由发动攻击。它们种类繁多，脾性各异；留意敌人的意图，摸清行动规律。应对之策会随着区域和运气而变化。
+A world of trinkets, tools, and traps. Some you’ll craft, some you’ll win, some you’ll wisely leave behind. Carry what matters, sell what doesn’t, and never underestimate a well‑timed consumable.	这个世界充满小玩意、工具与陷阱。有些物品可以制作，有些能作为战利品获得，还有些最好留在原地。带上真正重要的东西，卖掉不需要的物品，也别小看关键时刻使用的消耗品。
+Eight realms, eight tempers: ashen rifts, poisoned marshes, shattered peaks… Each land bends the rules a little. Know where you’re going before you nudge the die what helps in one place may hurt in another.	八个领域，各有脾性：灰烬裂谷、毒雾沼泽、破碎山峰……每片土地都会稍稍改变规则。掷骰之前，先弄清自己要去哪里：在一处有用的东西，到了另一处可能反而有害。
+Walk out empty‑handed and you might crawl back empty‑armed. Craft simple tools before the road gets mean. In town or on the trail, a bit of preparation turns ‘impossible’ into ‘barely manageable’. And that’s often enough.	两手空空地出门，回来时可能连胳膊都保不住。趁旅途还没变得凶险，先制作一些简单工具。无论在城镇还是路上，一点准备就能让“不可能”变成“勉强应付得来”。很多时候，这就足够了。
+Some items don’t die they change owners. Artifacts stitch small, permanent rules to your lineage: a free nudge here, an extra draw there. Alone they’re modest; together they sing. Keep them balanced, or they’ll sing too loudly.	有些物品不会消失，只会易主。圣物会为你的血脉带来细微而持久的规则变化：这里多一点便利，那里多抽一张牌。单独来看效果有限，组合起来却很强大。注意保持平衡，别让它们失去控制。
+Every region keeps its own heirlooms. Collecting them is hard, keeping them harder but if luck smiles and you secure one, your future heroes will feel it from the very first hand.	每个区域都有自己的传家宝。收集它们不容易，保住它们更难。但若幸运眷顾，让你成功获得一件，未来的英雄从第一手牌开始就能受益。
+Places remember. Regional relics twist the rules while you’re there double the traps, double the loot… that sort of bargain. Bring a relic back and the path through that land will never feel quite the same again.	每片土地都有记忆。区域遗珍会在你身处当地时改变规则，例如让陷阱翻倍，或让战利品翻倍。把遗珍带回家后，再次穿越那片土地时，旅程也将有所不同。
+Simple Stone	普通石头
+Just a simple stone. Nothing extraordinary about it. \n\n<color=#57B77C>Building Material	只是普通的石头，没有什么特别之处。\n\n<color=#57B77C>建筑材料
+Unwanted Things	无用之物
+A bunch of things nobody wants. Why would you? \n\n<color=#57B77C>Worthless Trash	一堆没人想要的东西。你为什么会想要？\n\n<color=#57B77C>毫无价值的垃圾
+Void	虚空
+A building block of everything. Stare into the void too long, and you may go mad! \n\n<color=#57B77C>Useful for doing absolutely nothing	万物的基本构成。凝视虚空太久，你可能会发疯！\n\n<color=#57B77C>完全没有用途
+Key	钥匙
+Used to open any chest. \n\n<color=#57B77C>Opens chests without consuming action points	用于打开任何宝箱。\n\n<color=#57B77C>开启宝箱时不消耗行动点
+Pickled Eye	腌制之眼
+A favorite delicacy in certain regions. \n\n<color=#57B77C>+2% Critical Hit Chance per jar / Stackable	某些地区的珍味。\n\n<color=#57B77C>每瓶+2%暴击率 / 可叠加
+Dining Set	餐具套装
+No more eating everything with your hands. \n\n<color=#57B77C>+10 Health Restoration from food	不用再用手吃饭了。\n\n<color=#57B77C>食物恢复效果 +10 生命值
+Golden Necklace	金项链
+Adds a touch of elegance and makes your enemies envious. \n\n<color=#57B77C>+2% Evasion Chance	增添一丝优雅，让敌人嫉妒。\n\n<color=#57B77C>+2% 闪避率
+Flame Stone Ring	火焰石戒指
+A truly stylish and functional ring. \n\n<color=#57B77C>+10% Burn Resistance	既时尚又实用的戒指。\n\n<color=#57B77C>+10% 灼烧抗性
+Anukin Glass Shield	阿努金之玻璃盾
+A rare artifact. A gift from the old gods. \n\n<color=#57B77C>You gain 100 defense at the start of the battle. It breaks after the first turn.	稀有神器，古老众神的馈赠。\n\n<color=#57B77C>战斗开始时获得100防御，第一回合后破碎。
+Simple Wooden Shield	简易木盾
+A truly simple wooden shield. \n\n<color=#57B77C>Provides +2 Defense	非常简单的木制盾牌。\n\n<color=#57B77C>提供 +2 防御
+Sturdy Iron Shield	坚固铁盾
+A shield you'd want to hide behind. \n\n<color=#57B77C>Provides +5 Defense	值得你躲在后面的盾牌。\n\n<color=#57B77C>提供 +5 防御
+Black Well Mirror	黑井之镜
+A sharp reflection can sometimes hurt you.\n\n<color=#57B77C>You're not sure what it is. It resembles an ornate mirror.	锋利的倒影有时会伤人。\n\n<color=#57B77C>你不确定它是什么，看起来像装饰性镜子。
+Evil Eye Bead	恶魔之眼珠
+A powerful talisma passed down from our ancestors.\n\n<color=#57B77C>Every turn has a 10% chance to cleanse all harmful conditions.	强大的护身符，代代相传。\n\n<color=#57B77C>每回合有10%几率清除所有负面状态
+Large Gorgot Fang	巨型戈尔戈獠牙
+Some things are better observed from a distance.\n\n<color=#57B77C>Poisons enemies with a 2% chance in the first turn.	有些东西最好远观。\n\n<color=#57B77C>第一回合有2%几率使敌人中毒
+Blessed Dice	祝福骰子
+A little extra luck with the dice wouldn’t hurt.\n\n<color=#57B77C>Grants a 15% chance to avoid traps encountered on the road.	多一点骰子运气总没坏处。\n\n<color=#57B77C>在路上遇到陷阱时有15%几率避免触发
+Golden Horseshoe	金马蹄铁
+Brings luck for shiny things.\n\n<color=#57B77C>Increases gold obtained from chests by 20%.	为闪亮之物带来好运。\n\n<color=#57B77C>从宝箱中获得的金币增加20%
+Black Horseshoe	黑马蹄铁
+A luck symbol smeared with ink.\n\n<color=#57B77C>Increases ink drops from enemies by 20%.	沾满墨迹的幸运象征。\n\n<color=#57B77C>敌人掉落的墨水增加20%
+Bloody Gold Coin	血金币
+A good bribe can even cheat death.\n\n<color=#57B77C>Trade item.	好的贿赂甚至能欺骗死亡。\n\n<color=#57B77C>交易物品
+Klemer's Magnet	克莱默磁石
+A truly attractive item.\n\n<color=#57B77C>Earns +1 gold for every tile you move.	极具吸引力的物品。\n\n<color=#57B77C>每移动一格获得 +1 金币
+Daibeth's Talisman	戴贝斯护符
+If karma were a weapon, this would be it.\n\n<color=#57B77C>Gathers 10% of the damage taken from enemies and transfers it to your next hit.	若业力是一种武器，那就是它。\n\n<color=#57B77C>吸收10%所受伤害并转移至下次攻击
+Small Life Nectar	小生命甘露
+No game is complete without a healing potion.\n\n<color=#57B77C>Restores 25% health.	没有治疗药水的游戏是不完整的。\n\n<color=#57B77C>恢复 25% 生命值
+Medium Life Nectar	中型生命甘露
+No game is complete without a healing potion. Medium size, of course.\n\n<color=#57B77C>Restores 50% health.	没有治疗药水的游戏是不完整的，中等大小当然更好。\n\n<color=#57B77C>恢复 50% 生命值
+Large Life Nectar	大型生命甘露
+No game is complete without a healing potion. Go big or go home.\n\n<color=#57B77C>Restores 100% health.	没有治疗药水的游戏是不完整的，要么来大的，要么回家。\n\n<color=#57B77C>恢复 100% 生命值
+Floating Leaf Elixir	飘叶药剂
+Drops from the branch with perfect precision, avoiding danger along the way\n\n<color=#57B77C>Grants 5% evasion chance during battle.	精准地从树枝上落下，避开沿途的危险。\n\n<color=#57B77C>战斗中获得 +5% 闪避率
+Wood	木材
+Just ordinary beautiful wood.\n\n<color=#57B77C>Building Material	普通却美丽的木头。\n\n<color=#57B77C>建筑材料
+Iron Pickaxe	铁镐
+Perfect for breaking stones.\n\n<color=#57B77C>2x Stone from mining	完美用于敲碎石头。\n\n<color=#57B77C>采矿时获得双倍石头
+Iron Axe	铁斧
+The ideal tool for cutting trees.\n\n<color=#57B77C>2x Wood from chopping	砍树的理想工具。\n\n<color=#57B77C>伐木时获得双倍木头
+A type of trade currency. But with whom?\n\n<color=#57B77C>Trade Item	一种交易货币。但与谁交易？\n\n<color=#57B77C>交易物品
+Clotted Ointment	凝血膏
+An ancient remedy.\n\n<color=#57B77C>Reduces Bleeding Damage by 50%	古老的治疗药剂。\n\n<color=#57B77C>减少50%流血伤害
+Melake Talisman	梅拉克护符
+A powerful healing talisman. Glows like a green day.\n\n<color=#57B77C> 10% Health Regen at the end of each turn	强大的治疗护符，闪耀如绿色白昼。\n\n<color=#57B77C>每回合结束时恢复10%生命值
+Forest’s Protection	森林守护
+A rare defensive talisman.\n\n<color=#57B77C> +5 Defense in forest battles	稀有的防御护符。\n\n<color=#57B77C>森林战斗中 +5 防御
+Silver Ring	银戒指
+An old keepsake, perhaps bringing a bit of luck.\n\n<color=#57B77C> +1% Evasion Chance	古老的纪念品，也许能带来一点好运。\n\n<color=#57B77C>+1% 闪避率
+Migratory Bird Feather	候鸟羽毛
+Gives a feeling of lightness.\n\n<color=#57B77C> +1 to movement dice	带来轻盈的感觉。\n\n<color=#57B77C>移动骰子 +1
+Broken Sword Shard	断剑碎片
+Once belonged to a warrior.\n\n<color=#57B77C>Trade Item	曾属于一位战士。\n\n<color=#57B77C>交易物品
+Pearl Necklace	珍珠项链
+A delicate necklace from the deep blue seas.\n\n<color=#57B77C> +5 Defense in water regions	来自深海的精致项链。\n\n<color=#57B77C>在水域区域 +5 防御
+Moss-Covered Helmet	覆苔头盔
+A relic from the depths of the sea.\n\n<color=#57B77C> +10% Poison Resistance	来自海底的遗物。\n\n<color=#57B77C>中毒抗性 +10%
+Dwarven Coin	矮人币
+Bears the sigils of ancient dwarven kings.\n\n<color=#57B77C>Trade Item	刻有古代矮人王的徽章。\n\n<color=#57B77C>交易物品
+Carved Bone	雕刻骨片
+Some see it as an ornament, others as a magical ingredient.\n\n<color=#57B77C>Trade Item for Dark Wizards	有人视为饰品，有人当作魔法材料。\n\n<color=#57B77C>黑巫师的交易物品
+Laneth’s Cursed Mask	拉内斯的诅咒面具
+Wearing it takes courage!\n\n<color=#57B77C>5% chance to scare the enemy, 5% chance to scare yourself	戴上它需要勇气！\n\n<color=#57B77C>5%几率恐吓敌人，5%几率吓到自己
+Ancient Battle Banner	古战旗
+A relic from past wars.\n\n<color=#57B77C>Trade Item	来自远古战争的遗物。\n\n<color=#57B77C>交易物品
+Rusty Nails	生锈的钉子
+A small surprise for attacking enemies.\n\n<color=#57B77C>5% chance to cause Bleed on hit	给攻击敌人一个小惊喜。\n\n<color=#57B77C>命中时有5%几率造成流血
+Enchanted Lantern	魔法灯笼
+Lights your way in the darkness.\n\n<color=#57B77C> +10 Defense in dark regions	照亮黑暗中的道路。\n\n<color=#57B77C>黑暗区域 +10 防御
+Dragon Fang Necklace	龙牙项链
+A relic from an ancient dragon.\n\n<color=#57B77C> +5% Critical Hit Chance	来自上古巨龙的遗物。\n\n<color=#57B77C>+5% 暴击率
+Herbal Medicine Pack	草药药包
+An old healing mixture.\n\n<color=#57B77C> 20% Health Regeneration after every battle	古老的治疗配方。\n\n<color=#57B77C>每场战斗后恢复20%生命值
+War Paint Set	战斗彩绘套装
+Boosts morale before a fight.\n\n<color=#57B77C> +20% Attack in the first turn of battle	战前提升士气。\n\n<color=#57B77C>战斗第一回合攻击力 +20%
+Silver Claw	银爪
+A cursed artifact from werewolves.\n\n<color=#57B77C>Increases Bleed Damage by 10%	来自狼人的受诅咒圣物。\n\n<color=#57B77C>流血伤害增加10%
+Bone Rattle	骨响器
+Produces a sound that resonates with the dead.\n\n<color=#57B77C>+5 Attack against skeleton enemies	发出与死者共鸣的声音。\n\n<color=#57B77C>对骷髅敌人攻击 +5
+Shadow Step Boots	暗影步靴
+Silent and swift.\n\n<color=#57B77C> +15% chance to avoid traps	无声而迅捷。\n\n<color=#57B77C>遇到陷阱时 +15% 规避几率
+Glue	胶水
+Iron Bar	铁锭
+Leather	皮革
+Herb	草药
+Crafting Material	制作材料
+FAMILY LEGACY	家族传承
+Base Parent Stats	父代基础属性
+Unlock Legacy	解锁传承
+Health Point	生命值
+Attack Point	攻击点数
+Defense Point	防御点数
+Critical Point	暴击点数
+Burn Resistance	灼烧抗性
+Poison Resistance	中毒抗性
+Blood Resistance	流血抗性
+EvasionPoint	闪避点数
+Evasion Point	闪避点数
+Evasion Points	闪避点数
+Critical points	暴击点数
+Critical Points	暴击点数
+Bleed Resistance	流血抗性
+Bleed resistance	流血抗性
+Attack Points	攻击点数
+Defense Points	防御点数
+CRAFTING	制作
+Craft	制作
+Select an item	请选择一件物品
+Change Equipments	更换装备
+Weapons	武器
+Armors	护甲
+Shields	盾牌
+Potions	药水
+Equip	装备
+Save & Close	保存并关闭
+BEGIN THE JOURNEY	开启旅程
+Unlocked	已解锁
+Complete This Region First	请先完成此区域
+FREE	免费
+LOCKED	未解锁
+Confirm	确认
+WARNING!	警告！
+No translation found for 'Weapons' in Crafting	制作界面的“武器”未找到翻译
+No translation found for 'Shields' in Crafting	制作界面的“盾牌”未找到翻译
+No translation found for 'Armors' in Crafting	制作界面的“护甲”未找到翻译
+No translation found for 'Potions' in Crafting	制作界面的“药水”未找到翻译
+This game contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.	本游戏包含闪烁光效，可能不适合光敏性癫痫或其他光敏性疾病患者。请谨慎游玩。
+Was it an ancient curse, or just the gods’ idea of a sick joke? No one knows.	这究竟是古老的诅咒，还是诸神开的恶劣玩笑？无人知晓。
+Was it an ancient curse, or just the gods' idea of a sick joke? No one knows.	这究竟是古老的诅咒，还是诸神开的恶劣玩笑？无人知晓。
+Health points -25% 	生命值 −25%
+Defense points -50% 	防御 −50%
+Critical Chance +15% 	暴击率 +15%
++2 Sneak Cost 	+2 潜行消耗
+Shop Prices -25% 	商店价格 −25%
++100 Gold per Shop Visit 	每次进入商店 +100 金币
+ +2 movement dice until the end of the turn.	直到本回合结束，移动骰子 +2。
+Action Points 	行动点 
+ Golden Necklace	金项链
+@ML@You can select a background for your character based on the buildings in your village.\nEach character can have only one background.	你可以根据村庄中的建筑为角色选择【出身背景】。\n每个角色只能拥有一个背景。
+@ML@Always loves walking. Always a step ahead. \n\\n<color=#57B77C><b>Movement Dice +1</b></color>	总是喜欢走路，永远快人一步。\\n<color=#57B77C><b>移动骰子 +1</b></color>
+@ML@Born with a disability, struggles with walking. \n\\n<color=#FF4D4A><b>Movement Dice -1</b></color>	天生行动不便，走路十分吃力。\\n<color=#FF4D4A><b>移动骰子 -1</b></color>
+@ML@Practically invisible, a child of shadows. Moves silently. \n\\n<color=#57B77C><b>Sneak Cost 0AP</b></color>	几乎隐形，仿佛暗影之子，行动无声无息。\\n<color=#57B77C><b>潜行消耗 0 行动点</b></color>
+@ML@Far from being silent. Every step is a thunderclap. \n\\n<color=#FF4D4A><b>Can't Perform Sneak</b></color>	一点也不安静，每一步都像打雷。\\n<color=#FF4D4A><b>无法潜行</b></color>
+@ML@Pays no attention to surroundings. \n\\n<color=#FF4D4A><b>Sneak Cost +2AP</b></color>	完全不留意周围环境。\\n<color=#FF4D4A><b>潜行消耗 +2 行动点</b></color>
+@ML@Born to run long distances. \n\\n<color=#57B77C><b>+2 Movement</b></color>	天生擅长长跑。\\n<color=#57B77C><b>移动力 +2</b></color>
+@ML@Has a poor digestive system, struggles to process food. \n\\n<color=#FF4D4A><b>Food Gains -50%</b></color>	消化系统较弱，难以吸收食物。\\n<color=#FF4D4A><b>食物收益 -50%</b></color>
+@ML@Gets full with just a few bites. Has a small stomach. \n\\n<color=#57B77C><b>Food Gains +50%</b></color>	吃几口就饱，胃口很小。\\n<color=#57B77C><b>食物收益 +50%</b></color>
+@ML@Suffers from advanced eating disorder. Can’t eat at all. \n\\n<color=#FF4D4A><b>Can't Eat Foods</b></color>	患有严重的进食障碍，完全无法进食。\\n<color=#FF4D4A><b>无法食用食物</b></color>
+@ML@Carefully watches every step. Never steps on unsafe ground. \n\\n<color=#57B77C><b>Reduce Trap Damage by 50%</b></color>	每一步都小心翼翼，从不踏上危险地面。\\n<color=#57B77C><b>陷阱伤害降低 50%</b></color>
+@ML@Blessed with golden hands. Everything touched turns to gold. \n\\n<color=#57B77C><b>Coin Collect x2</b></color>	拥有点石成金的幸运之手。\\n<color=#57B77C><b>金币收集量 x2</b></color>
+@ML@Picks up anything shiny on the road. Misses nothing. \n\\n<color=#57B77C><b>Earn 5 Coins Per Dice</b></color>	沿途绝不放过任何闪亮的东西。\\n<color=#57B77C><b>每次掷骰获得 5 金币</b></color>
+@ML@Drops coins with every step. Guess their pocket has a hole. \n\\n<color=#FF4D4A><b>Lose 5 Coins Per Dice</b></color>	走一步掉几枚金币，口袋大概破了。\\n<color=#FF4D4A><b>每次掷骰失去 5 金币</b></color>
+@ML@Born with an exceptional trading talent. Negotiation is an art. \n\\n<color=#57B77C><b>Decrease Shop Prices by 25%</b></color>	天生具有卓越的经商天赋，精通谈判。\\n<color=#57B77C><b>商店价格降低 25%</b></color>
+@ML@Has a childhood speech impairment. \n\\n<color=#FF4D4A><b>Increase Shop Prices by 25%</b></color>	从小就有言语障碍。\\n<color=#FF4D4A><b>商店价格提高 25%</b></color>
+@ML@A sneaky thief. Steals from every shop they visit. \n\\n<color=#57B77C><b>Steal 100 Coins From Shops</b></color>	狡猾的小偷，走到哪家店就偷哪家。\\n<color=#57B77C><b>从商店偷取 100 金币</b></color>
+@ML@Born with healthy genes. Always fit and strong. \n\\n<color=#57B77C><b>Increase Max Health by 25%</b></color>	天生基因健康，身体强健。\\n<color=#57B77C><b>生命值上限提高 25%</b></color>
+@ML@Born with unhealthy genes. Always sick and frail. \n\\n<color=#FF4D4A><b>Decrease Max Health by 25%</b></color>	天生体弱多病。\\n<color=#FF4D4A><b>生命值上限降低 25%</b></color>
+@ML@Has incredibly heavy and strong hands. Hits like a truck. \n\\n<color=#57B77C><b>Increase Damage by 20%</b></color>	双手沉重有力，攻击势不可挡。\\n<color=#57B77C><b>伤害提高 20%</b></color>
+@ML@Weak and fragile. Lacks strength. \n\\n<color=#FF4D4A><b>Decrease Damage by 20%</b></color>	身体虚弱，缺乏力量。\\n<color=#FF4D4A><b>伤害降低 20%</b></color>
+@ML@Born a warrior. A master of enemy's weak spots. \n\\n<color=#57B77C><b>Increase Critical Chance by +10%</b></color>	天生的战士，精通敌人的弱点。\\n<color=#57B77C><b>暴击率提高 +10%</b></color>
+@ML@Soft-hearted and merciful. Can’t strike critical areas. \n\\n<color=#FF4D4A><b>Can't Do Critical Attacks</b></color>	心地善良，不忍攻击要害。\\n<color=#FF4D4A><b>无法暴击</b></color>
+@ML@Born to be a killer. A bloodthirsty beast. \n\\n<color=#57B77C><b>Starting Critical Chance 50%</b></color>	天生的杀手，嗜血如命。\\n<color=#57B77C><b>初始暴击率 50%</b></color>
+@ML@Well-nourished with mother's milk. Very resilient. \n\\n<color=#57B77C><b>Starting Defense +10</b></color>	幼时营养充足，体魄坚韧。\\n<color=#57B77C><b>初始防御 +10</b></color>
+@ML@Weaned too early. Has a weak immune system. \n\\n<color=#FF4D4A><b>Starting Defense 0</b></color>	过早断奶，免疫力较弱。\\n<color=#FF4D4A><b>初始防御 0</b></color>
+@ML@Floats like a butterfly. Dodges attacks quickly. \n\\n<color=#57B77C><b>Starting Evasion 25%</b></color>	身轻如蝶，能够迅速闪避攻击。\\n<color=#57B77C><b>初始闪避率 25%</b></color>
+@ML@A bit slow and heavy. Just watches enemy attacks. \n\\n<color=#FF4D4A><b>Can't Dodge Attacks</b></color>	动作迟缓笨重，只能眼看着敌人出招。\\n<color=#FF4D4A><b>无法闪避攻击</b></color>
+Toxic Zone	剧毒地带
+In this perilous swamp, watch out for the poisonous plants.	在这片危险的沼泽中，小心有毒植物。
+Touch one and you’ll be poisoned for 3 turns.	一旦触碰，你就会中毒 3 回合。
+If you’re lucky, eating this plant can cure the poison.	如果运气好，吃下这种植物就能解毒。
+Freezing Winds	凛冽寒风
+Freezing winds can blow on the cold peaks.	寒冷的山峰上可能刮起刺骨的寒风。
+When the weather gets severely cold, all food begins to freeze.	天气极度寒冷时，所有食物都会开始冻结。
+You cannot eat food when it is frozen.	食物冻结后无法食用。
+Arid Deserts	干旱沙漠
+In arid deserts, the only thing as dangerous as enemies is thirst.	在干旱的沙漠中，口渴和敌人一样危险。
+Find a new water source before the water in your body runs out.	在身体水分耗尽前找到新的水源。
+Otherwise, you will start to die slowly.	否则，你的生命将逐渐流逝。
+Hellfire	地狱烈焰
+In the heat of hell, everything on you begins to harm you.	在地狱般的高温中，随身携带的一切都可能伤害你。
+As you progress on this path, the gold you carry begins to get hotter.	随着你沿这条道路前进，携带的金币会越来越烫。
+If they become glowing hot, you lose 1% health for every 1000 gold you carry on every die roll.	当金币变得灼热时，每次掷骰都会因每携带 1000 金币而损失 1% 生命值。
+Land of Gloom	幽暗之地
+In the silent lands of death, the darkness chills you. You start losing morale with every die roll.	在死寂之地，黑暗令人不寒而栗。每次掷骰都会降低士气。
+If your morale drops to zero, your Attack and Defense Points are halved.	士气降至零时，你的攻击点数和防御点数减半。
+Food, opened chests, and won battles restore your morale.	食物、开启宝箱和赢得战斗都能恢复士气。
+Darkness is taking root; now it's not just surrounding you, it's enveloping your soul.	黑暗正在扎根；它不再只是包围你，而是逐渐吞噬你的灵魂。
+You have reached the end of the world, that cold boundary where reality ends.	你已抵达世界尽头，现实在这道冰冷的边界戛然而止。
+There is no way back from here; your steps now only lead into the void.	从这里已无路可退，你的脚步只能通向虚空。
+You are not yet ready to face this ancient horror...	你还没有准备好面对这古老的恐怖……
+Blessing of the Forest	森林的祝福
+Bogheart Amulet	沼心护符
+In this region, Poison damage −50%.	在此区域，受到的中毒伤害 −50%。
+In this region, food restores ×2 Health.	在此区域，食物恢复的生命值 ×2。
+Barkhide Talisman	树皮护符
+In this region, you start each battle with 10 Defense.	在此区域，每场战斗开始时获得 10 点防御。
+Forager’s Pouch	采集者的行囊
+In this region, each resource you collect is increased by +5.	在此区域，每次采集资源的数量 +5。
+Leechbone Ring	吸血骨戒
+In this region, after each battle you heal 10% of Health lost.	在此区域，每场战斗结束后恢复已损失生命值的 10%。
+Swamp Dealer’s Token	沼泽商人的信物
+In this region, gold earned +20%.	在此区域，获得的金币 +20%。
+Cliffwalker Boots	攀崖靴
+In this region, leaving a battle costs −1.	在此区域，脱离战斗的消耗 −1。
+Froststeel Buckle	霜钢扣环
+In this region, trap damage −40%.	在此区域，受到的陷阱伤害 −40%。
+Echo Horn	回响号角
+In this region, you always take the first turn.	在此区域，你始终先手行动。
+Dune Compass	沙丘罗盘
+In this region, movement dice +2. You travel faster.	在此区域，移动骰点数 +2，移动速度更快。
+Scavenger’s Hook	拾荒者的钩爪
+In this region, gold from chests is doubled.	在此区域，从宝箱获得的金币翻倍。
+Heatproof Wraps	隔热裹布
+In this region, heat effect −50%. You get less thirsty.	在此区域，高温效果 −50%，口渴速度减慢。
+Ember Sigil	余烬符印
+In this region, Critical Chance +15%.	在此区域，暴击率 +15%。
+Cinder Guard	灰烬守卫
+In this region, Burn damage −40%.	在此区域，受到的灼烧伤害 −40%。
+Ash Coin	灰烬币
+In this region, merchant prices −50%.	在此区域，商人售价 −50%。
+Lantern of Truth	真理提灯
+Immune to Fear in this region.	在此区域，免疫恐惧。
+Hexbreak Charm	破咒护符
+In this region, each turn you gain Defense equal to 10% of your current Defense.	在此区域，每回合获得相当于当前防御值 10% 的防御。
+Relic Seeker’s Key	遗物探索者之钥
+All chests in this region open without a key.	在此区域，所有宝箱无需钥匙即可开启。
+Tidecaller’s Shell	唤潮贝壳
+In this region, each Defense card grants +20% Defense.	在此区域，每张防御卡提供的防御 +20%。
+Pearl of Salvage	拾遗珍珠
+In this region, each resource you collect grants +1000 Gold.	在此区域，每次采集资源额外获得 1000 金币。
+Deepwater Draught	深水药剂
+In this region’s battles, attack damage +20%.	在此区域的战斗中，攻击伤害 +20%。
+All Relics in the Region Found!	已找到该区域的所有遗物！
+Represents your overall health points. Heals over time through food, potions, and at the end of each turn.	代表你的生命值。可以通过食物、药水及每回合结束时的恢复效果补充。
+Represents your attack power. It’s the base value used for calculating your attacks.	代表你的攻击力，是计算攻击伤害的基础数值。
+Represents your overall defense power. Reduces the damage you take at the start of each battle. Resets in every battle.	代表你的防御力。每场战斗开始时可减少所受伤害，且每场战斗都会重置。
+Represents your chance to dodge incoming attacks. You take no damage from attacks you successfully dodge.	代表你闪避来袭攻击的概率。成功闪避时不会受到该次攻击的伤害。
+Represents your critical damage ratio. Critical hits deal 25% more damage based on your attack power.	代表你的暴击伤害倍率。暴击会根据攻击力额外造成 25% 的伤害。
+Not Avaliable On Demo Version	试玩版不可用
+Hold for Build	按住以建造
+Hold for Upgrade	按住以升级
+No soul is bound to you yet. Awaken one through the Breeding Ceremony.	尚无灵魂与你绑定。通过育种仪式唤醒一个灵魂。
+Warning!	警告！
+Are You Ready?	准备好了吗？
+You seem ready for the adventure... But would you like to do one last check before setting out?	看来你已经准备好冒险了……不过出发前，要不要再检查一次？
+Let’s Go!	出发！
+Not Yet	再等等
+Karma Points Maxed Out!	业力值已达到上限！
+Your dark karma is overflowing. Until you make amends, all enemies you face will have their stats increased by 50%. This will make your journey significantly harder.\nTry doing a few good deeds—ASAP.	你的负面业力已经溢出。在你弥补过错之前，遇到的所有敌人属性都会提高 50%，冒险将变得更加艰难。\n赶快做几件善事吧！
+Wood : A basic construction material. Used to build or upgrade structures in your village.	木材：基础建筑材料，用于建造或升级村庄建筑。
+Stone : A basic construction material. Used to build or upgrade structures in your village.	石材：基础建筑材料，用于建造或升级村庄建筑。
+Ink : To create something from nothing, you need ink. Collected from defeated enemies, opened chests, or items brought back to your village.	墨水：无中生有需要墨水。可通过击败敌人、开启宝箱或将物品带回村庄获得。
+Gold : The primary currency of the game world. Required for all construction and trade with merchants.	金币：游戏世界的主要货币，建造建筑和与商人交易都需要金币。
+Your karma is rotten!	你的业力已经腐化！
+While under the effect of bad karma, all enemies are stronger, deadlier, and unforgiving. You’d better cleanse it before it gets worse.	受到负面业力影响时，所有敌人都会更强、更致命、更加无情。最好尽快净化业力，以免情况恶化。
+Garbage Goblin	垃圾哥布林
+Turn all your Unwanted Things into the item of your choice!	把所有不想要的东西换成你选中的物品！
+Select	选择
+Equipment Merchant	装备商人
+Dwarf Blacksmith	矮人铁匠
+Devil's Bargain	魔鬼交易
+Sign the deal	签订契约
+You can select a background for your character based on the buildings in your village.\nEach character can have only one background.	你可以根据村庄中已建造的建筑，为角色选择一项出身背景。\n每个角色只能拥有一项出身背景。
+Bring one of your heroes back to the village alive.	让一名英雄活着返回村庄。
+Win a total of 10 battles.	累计赢得 10 场战斗。
+Unlock a total of 20 chests.	累计开启 20 个宝箱。
+Build a Blacksmith in your village.	在村庄建造一座铁匠铺。
+Build a Ranger Camp in your village.	在村庄建造一座游侠营地。
+Roll the dice 100 times with the same hero.	使用同一名英雄掷骰 100 次。
+Win 10 battles with the same hero.	使用同一名英雄赢得 10 场战斗。
+Embark on an adventure with 50 different heroes.	让 50 名不同的英雄踏上冒险。
+Reach level 20 with a single hero.	让一名英雄达到 20 级。
+Complete the first region of the map.	完成地图的第一个区域。
+Active Quests	进行中的任务
+Settings	设置
+Languages	语言
+Fullscreen	全屏
+Master Volume	主音量
+Music Volume	音乐音量
+SFX Volume	音效音量
+Main Menu	主菜单
+Quit Game	退出游戏
+Graphics	画质
+Screen Resolution	屏幕分辨率
+New Game	新游戏
+Elder Tutto	图托长老
+I think we’ll pass for now...	我想这次还是算了……
+Welcome to Boardlike!	欢迎来到 Boardlike！
+A Hero Is Born	英雄诞生
+Back to Home	返回家园
+Death Is Not the End	死亡并非终点
+A Strong Legacy	强大的传承
+A Hard Journey	艰险旅途
+You can use the resources gathered from your adventures to construct new buildings and upgrade your village.	你可以利用冒险中收集的资源建造新建筑，并升级村庄。
+The buildings you construct in your village grant permanent bonuses to your newly born heroes.	村庄里建造的建筑会为新诞生的英雄提供永久加成。
+Test Card 1	测试卡牌 1
+Test card description test card description Test card description test card description	测试卡牌描述，测试卡牌描述，测试卡牌描述，测试卡牌描述
+Mystery Visitors	神秘访客
+Hunter Django	猎人姜戈
+Doctor Fraud	弗劳德医生
+Banker Bilo	银行家比洛
+Smuggler Snugg	走私贩斯纳格
+Healer Nightingale	治疗师南丁格尔
+Worker Herodo	工人赫罗多
+Content	内容
+Exit	退出
+Your Hero Is Dead!	你的英雄阵亡了！
+Everything they fought for is now buried with them...	他们为之奋斗的一切，如今都随他们长眠地下……
+WISHLIST BOARDLIKE	将 BOARDLIKE 加入愿望单
+Roadmap	开发路线图
+Message from Bozz	Bozz 的留言
+World Saved!	世界得救了！
+Defender	防御者
+Can increase Defense Points with the Guard action.	可以通过防御行动提高防御点数。
+Healer	治疗者
+Heals self or an ally by a certain percentage.	按一定比例恢复自己或盟友的生命值。
+Slasher	撕裂者
+Attacks can inflict Bleed, causing the target to take damage each turn.	攻击可施加流血效果，使目标每回合受到伤害。
+Attacks can inflict Poison, causing the target to take damage each turn.	攻击可施加中毒效果，使目标每回合受到伤害。
+Poisonous	剧毒者
+Hider	潜伏者
+Takes cover to reduce incoming damage.	利用掩护减少受到的伤害。
+Burner	灼烧者
+Attacks can inflict Burn, causing the target to take damage each turn.	攻击可施加灼烧效果，使目标每回合受到伤害。
+Blood Magic	血魔法
+Attacks can inflict Blood Magic. While under Blood Magic, healing is disabled.	攻击可施加血魔法效果。受到血魔法影响期间无法接受治疗。
+Scary	恐吓者
+Attacks can inflict Fear. While Frightened, you cannot defend.	攻击可施加恐惧效果。处于恐惧状态时无法防御。
+Block Breaker	破防者
+Attacks can break your Block. Your accumulated Defense is reset to 0.	攻击可击破格挡，将你积累的防御点数清零。
+Weakener	削弱者
+Attacks can inflict Weaken. While Weakened, your attack damage is halved.	攻击可施加虚弱效果。处于虚弱状态时，攻击伤害减半。
+Stunner	眩晕者
+Attacks can inflict Stun. While Stunned, you cannot act.	攻击可施加眩晕效果。处于眩晕状态时无法行动。
+Life Stealer	生命窃取者
+Can steal life on attack. Heals for half the damage dealt.	攻击时可以吸取生命，恢复相当于造成伤害一半的生命值。
+Explosive	爆炸者
+May explode after a short time, dealing heavy damage.	可能在短时间后爆炸，造成大量伤害。
+Choose Your Sign	选择你的命运征兆
+The option you choose will remain with your hero until the adventure ends.	你的选择将一直伴随英雄，直到冒险结束。
+Gatherer	采集者
+Thief	盗贼
+No Thanks	不用了，谢谢
+Treasure Rock	藏宝巨岩
+Pickaxe : Adds +1 to your break attempts	镐子：额外获得 1 次敲击机会
+Gold : Grants gold in 3 possible amounts	金币：获得三种数量之一的金币
+Multiplier : Doubles all rewards you've collected so far	倍增：将目前收集的所有奖励翻倍
+Sacrifice Stone	献祭石碑
+Increase Max Health Donation	增加最大生命值献祭量
+Decrease Max Health Donation	减少最大生命值献祭量
+Hold to Accept Sacrifice	按住以确认献祭
+<wiggle> Hold <wiggle>	<wiggle> 按住 <wiggle>
+Hover for more info	悬停查看详情
+Claim All	全部领取
+Critical Chance Increased	暴击率提高
+Evade Chance Increased	闪避率提高
+Defense Points Increased	防御点数提高
+Attack Damage Increased	攻击伤害提高
+Max Health Increased	生命值上限提高
+Gambler's Pit	赌徒深坑
+Wager	下注
+Reward	奖励
+Between the Blades!	刀锋之间！
+Stab!	刺下！
+Stonehide Cuirass	石肤胸甲
+Runeforged Plate	符文锻造板甲
+Deepdelver Mail	深掘者锁甲
+Ancestral Ironclad	先祖铁甲
+Emberforged Harness	余烬锻造战甲
+Stonewall Buckler	石墙小盾
+Oathkeeper Shield	守誓者之盾
+Runed Bastion	符文壁垒
+Forgeguard Aegis	锻炉守卫之盾
+Grudgebearer Shield	宿怨之盾
+Ironbeard Warhammer	铁须战锤
+Runecarved Axe	符文雕刻战斧
+@ML@20% more experience from battles -\nPotions are 10% more effective -	战斗获得的经验值增加20% -\n药水效果提高10% -
+@ML@- Automatically stands in all battlefields\n- Cannot gather resources like Wood and Stone	- 自动停留在所有战斗区域\n- 无法采集木材和石头等资源
+@ML@Automatically stops at all merchants -\nTakes no damage from Hellfire in Region 5 -	自动停留在所有商人处 -\n在第5区域免疫地狱烈焰伤害 -
+@ML@- Merchant prices increase by 20%\n- Traps deal 50% more damage	- 商人售价提高20%\n- 陷阱造成的伤害增加50%
+@ML@Automatically stops at all material resources -\nFood is 25% more effective -	自动停留在所有材料资源点 -\n食物效果提高25% -
+@ML@- Cannot use Axe and Pickaxe\n- Sneak cost x2	- 无法使用斧头和镐子\n- 潜行消耗翻倍
+@ML@20% higher lockpicking chance -\n50% less damage from traps -	开锁成功率提高20% -\n受到的陷阱伤害减少50% -
+@ML@- Cannot visit any merchants\n- Steals half the gold upon returning to the village	- 无法拜访任何商人\n- 返回村庄时偷走一半金币
+@ML@A gold-filled boulder lies before you. Dig deep to uncover what it’s hiding. Trust your instincts to find the richest spots.\n\nChoose where to break, and gather as much gold as you can before your break attempts run out.	一块藏满黄金的巨石挡在面前。深入挖掘，揭开其中的秘密。凭直觉找到最富饶的位置。\n\n选择敲击位置，在次数耗尽前尽可能收集黄金。
+@ML@SACRIFICE\nREWARDS	献祭\n奖励
+Place a wager and try not to cut yourself. The reward multiplies after each round. Of course, so does the speed of the knife. You can walk away at any time. If you cut yourself, you lose all the coin.	下注吧，小心别割伤自己。每过一轮，奖励倍数都会增加，刀的速度也会加快。你可以随时收手；一旦割伤自己，就会失去全部赌注。
+@ML@Max health increases by 20%.\nDamage taken reduced by 10%.	最大生命值提高20%。\n受到的伤害减少10%。
+@ML@Defense points increased by 20%. \nStart battle with 25% defense.	防御点数提高20%。\n以 25% 防御开始战斗。
+Deepforge Pick	深锻之镐
+Anvilbreaker	破砧者
+Emberlash Blade	余烬鞭刃
+Sentinel Axe	哨卫战斧
+Waysteel Sword	远行钢剑
+Hardened Edge	淬硬之刃
+Battleforged Mace	战锻钉锤
+Frontliner Blade	先锋之刃
+Warden’s Hammer	守望者之锤
+Steelfang Blade	钢牙之刃
+Ironedge Sword	铁锋剑
+Vanguard Axe	先驱战斧
+Soldier’s Blade	士兵之刃
+Sentinel Shield	哨卫之盾
+Battle Guard	战斗护卫
+Bastion Shield	堡垒之盾
+Guardian’s Aegis	守护者圣盾
+Steelbound Shield	钢缚之盾
+Wardshield	护卫之盾
+Vanguard Shield	先驱之盾
+Bulwark Guard	壁垒护盾
+Ironwall Shield	铁壁之盾
+Defender’s Shield	防御者之盾
+Battleworn Armor	久经沙场的护甲
+Warden’s Plate	守望者板甲
+Steelguard Vest	钢卫背心
+Frontline Harness	前线护具
+Bastion Armor	堡垒护甲
+Hardened Leathercoat	硬化皮外套
+Sentinel Mail	哨卫锁甲
+Vanguard Cuirass	先驱胸甲
+Ironbound Armor	铁缚护甲
+Wayfarer’s Plate	旅者板甲
+@ML@Damage taken reduced by 10%. \nTake 50% less damage from traps.	受到的伤害减少10%。\n受到的陷阱伤害减少50%。
+@ML@Stun probability reduced by 25%. \nBlocks 50% of the first damage in every battle.	被眩晕的概率降低25%。\n每场战斗首次受到的伤害减少50%。
+Provides 10% resistance against all damage types.	对所有伤害类型获得10%的抗性。
+@ML@Defense points increased by 10%. \n10% chance to block critical hits.	防御点数提高10%。\n有10%概率格挡暴击。
+Gain defense next turn when health points drop below 20%.	生命值低于20%时，在下一回合获得防御。
+Grants 100 gold every time a defense card is used.	每使用一张防御卡，获得100金币。
+Grants +1 Battle Point every time a defense card is used.	每使用一张防御卡，获得+1战斗点数。
+10% chance to heal for 10% when damage is taken.	受到伤害时，有10%概率恢复10%的生命值。
+@ML@Attack points increased by 10%. \nCritical hits deal 50% more damage.	攻击点数提高10%。\n暴击伤害提高50%。
+Deals 10% more damage to enemies with defense points.	对拥有防御点数的敌人造成的伤害提高10%。
+@ML@Attack points increased by 12%. \n20% more gold from won battles.	攻击点数提高12%。\n战斗获胜获得的金币增加20%。
+Each attack destroys 10% of the enemy's defense.	每次攻击摧毁敌人10%的防御。
+20% chance to apply burn with each attack.	每次攻击有20%概率施加灼烧。
+Empty	空
+Enter	进入
+Dungeon Discovered!	发现地下城！
+You found a dungeon descending into the depths. Dare to explore inside?	你发现了一座通往地下深处的地下城。敢进去探索吗？
+Dungeon Cleared!	地下城已清理！
+You doomed yourself!	你让自己陷入了绝境！
+Collected Loot	收集的战利品
+You escape with a sliver of health left. You had to leave your gathered loot behind.	你仅剩一丝生命值，勉强逃了出来。收集的战利品只能留在身后。
+A successful dungeon run! You continue on your way with your gathered loot.	地下城探索成功！你带着收集的战利品继续前进。
+Parent Locked!	亲代已锁定！
+Remaining	剩余
+To Collapse	距离崩塌
+Turns Remaining Until Boss	距离首领出现的剩余回合
+Each region has a different turn limit before the boss appears.	每个区域在首领出现前都有不同的回合限制。
+You Need More Turn!	你需要更多回合！
+Player Turn	玩家回合
+Enemy Turn	敌方回合
+Items Found!	发现物品！
+Relics	遗物
+Regional Relics	区域遗物
+@ML@Across every region lie hidden relics. Revealed by sacred rites or torn from defeated bosses. These artifacts bless your newborns with permanent gains.\nRare to claim, rich in reward.	每个区域都藏有遗物。它们可能通过神圣仪式显现，也可能从被击败的首领身上夺得。这些神器能永久强化你的新生英雄。\n获取不易，回报丰厚。
+Your hero has returned from the adventure and joined the family pool!	你的英雄已结束冒险，返回村庄并加入家族成员池！
+Each region hides its own battle cards echoes of your ancestors’ lost arts. Rare to claim, yet their power endures through your bloodline’s wars.	每个区域都藏有独特的战斗卡牌，承载着先祖失落的技艺。虽然难以获得，但它们的力量会在家族的战斗中延续。
+Select Enemy to Attack!	选择要攻击的敌人！
+Select Your Hero to Use!	选择要使用的英雄！
+Victory!	胜利！
+Health and Action Points are restored.	生命值和行动点数已恢复。
+Select and increase stat.	选择并提升属性。
+Find 3 Key Card To Unlock	找到3张钥匙卡即可解锁
+Lockpick Successful!	开锁成功！
+Lockpick Failed!	开锁失败！
+Sneak Successful!	潜行成功！
+Drop	丢弃
+Help	帮助
+Event Card	事件卡
+Are You Sure?	确定吗？
+Only true heroes know when to quit.	真正的英雄知道何时该收手。
+Sold	已售出
+Boss Battle	首领战
+New Region	新区域
+The hero has returned to the village and is ready to breeding.	英雄已返回村庄，可以参加繁衍仪式。
+Warrior Sign Used	已使用战士星象
+Merchant Sign Used	已使用商人星象
+Gatherer Sign Used	已使用采集者星象
+Thief Sign Used	已使用盗贼星象
+Items Ink Value	物品墨水价值
+Collected Items	收集的物品
+Adventure End	冒险结束
+Total	总计
+Collected Gold	收集的金币
+Collected Ink	收集的墨水
+Collected Wood	收集的木材
+Collected Stone	收集的石头
+Loop Quests	循环任务
+Claim	领取
+Completed	已完成
+Complete quests and earn loop points!	完成任务以获得循环积分！
+Who Goes First?	谁先行动？
+Toss the Coin	抛硬币
+Damage Per Turn	每回合伤害
+Previous Hero	上一位英雄
+Final health points	最终生命值
+Quantity	数量
+Remove	移除
+Deck Build	卡组构筑
+Battle Deck	战斗卡组
+Deck Count	卡组数量
+Save & Continue	保存并继续
+Prepare your battle deck before the journey begins.	出发前准备好你的战斗卡组。
+Build Your Deck	构筑你的卡组
+You don’t have any buildings that grant bonuses yet!	你还没有能提供加成的建筑！
+Select one of your buildings to gain a bonus!	选择一座建筑以获得加成！
+Select Game Mode	选择游戏模式
+Game mode cannot be changed until you start a new game!	只有开始新游戏才能更改游戏模式！
+Unlimited	无限
+Standard	标准
+Deadly	致命
+Unlimited breeding rights	无限繁衍次数
+300 breeding rights	300次繁衍机会
+100 breeding rights	100次繁衍机会
+1.2x reward bonus	1.2倍奖励加成
+2x reward bonus	2倍奖励加成
+No reward bonus	无奖励加成
+Loading...	加载中……
+You lost your legacy!	你的家族传承断绝了！
+Boss Defeated!	首领已击败！
+Choose First	先选择
+Spin!	转动！
+Ancestral Card Found!	发现先祖卡牌！
+Wheel of Relics	遗物之轮
+Relic Found!	发现遗物！
+You don’t have any equipment yet!	你还没有任何装备！
+Back	返回
+I am sure, Continue	我确定，继续
+Skip Tutorial	跳过教程
+Non-Equippable	不可装备
+This item stays in your <color=#2CEE9C><b>bag</b></color> and provides <color=#2CEE9C><b>passive effects</b></color>.	此物品保留在你的 <color=#2CEE9C><b>背包</b></color>中，并提供 <color=#2CEE9C><b>被动效果</b></color>。
+Reset Hero	重置英雄
+Kill Hero	杀死英雄
+"...and I must admit, this place isn't ready for an ""outsider"" like you yet."	……不过我得承认，这个地方还没准备好迎接你这样的“外来者”。
+Congratulations, Traveler! Reaching this far is no feat for just any hero (or victim). The willpower you've shown in these dark corridors is admirable.	恭喜你，旅行者！能走到这里，可不是随便哪个英雄（或者牺牲品）都办得到的。你在这些黑暗走廊中展现的意志令人钦佩。
+The BOARDLIKE Early Access version concludes here for now. But your torch hasn't gone out yet! Very soon we'll be back with much deeper dungeons, more terrifying creatures, and legendary loot.	《BOARDLIKE》的抢先体验内容暂时到此结束。但你的火炬还没有熄灭！我们很快会带来更深的地下城、更可怕的怪物，以及传说级战利品。
+Data is Safe: All your progress and achievements are sealed in our systems. With the upcoming major updates, you will be able to continue from where you left off, even stronger.	存档安全：你的所有进度与成就都已妥善保存。未来的大型更新推出后，你将能从上次离开的地方继续冒险，变得更加强大。
+@ML@Oooo, a new player!\r\nNo time for long greetings. Time is short, and this world needs saving.\r\nLet’s start with the basics.	噢噢，一位新玩家！\r\n没时间寒暄了。时间紧迫，这个世界还等着我们拯救。\r\n先从基础开始吧。
+@ML@First things first. We need a hero to save us.\r\nAnd they won’t be falling from the sky!\r\nHit the BREEDING CEREMONY button and let’s bring them into this world.	首先，我们需要一位拯救世界的英雄。\r\n而英雄可不会从天上掉下来！\r\n点击“繁衍仪式”按钮，让英雄降临这个世界。
+@ML@This is the Breeding Ceremony screen.\r\nTo create a new hero, you’ll need a willing mother and father.\r\nCheck their stats carefully and choose the best pair for strong genetics.	这里是繁衍仪式界面。\r\n要创造一位新英雄，需要一位愿意参与的母亲和父亲。\r\n仔细查看他们的属性，选择最合适的一对，培育优秀的遗传特质。
+@ML@When picking a family, pay attention to their Genetic Traits as well.\nOnly one of these traits will pass to your new hero.	选择家族时，也要留意他们的遗传特质。\n新英雄只能继承其中一项特质。
+@ML@Right now, our village is in rough shape, so you can’t assign a Background just yet.\r\nBut don’t forget to explore this option later.	我们的村庄目前状况不佳，所以你暂时无法指定出身背景。\r\n但之后别忘了回来探索这个选项。
+If everything’s ready, hold down the BREED button and meet the (un)lucky hero who might just save us!	如果一切准备就绪，就按住“繁衍”按钮，来见见这位可能拯救我们的（倒霉）英雄吧！
+@ML@Ooo, looking promising!\r\nMaybe not the luckiest draw this round, but with any luck, they’ll at least make it back to the village.\r\nClose the hero panel and let’s move on.	噢，看起来很有潜力！\r\n虽然这次的运气可能不算最好，但愿这位英雄至少能平安回到村庄。\r\n关闭英雄面板，我们继续。
+@ML@Now comes the hard part.\r\nI think we’re ready.\r\nPress START ADVENTURE and let’s see what fate has in store.	接下来才是真正困难的部分。\r\n我想我们已经准备好了。\r\n点击“开始冒险”，看看命运会带来什么。
+@ML@Before starting the adventure, you can choose a sign for your hero.\nPay attention to the pros and cons or continue without choosing one.	开始冒险前，你可以为英雄选择一个星座。\n注意每个星座的优缺点，也可以不选直接继续。
+@ML@Not a bad Board for the first round, huh?\r\nOf course, I can’t hold your hand the whole way.\r\nYou’ll have to learn as you go.\r\nNow, roll the dice and let’s set off!	第一局的棋盘还不错，对吧？\r\n当然，我不可能一直手把手教你。\r\n接下来得靠你自己摸索。\r\n现在掷出骰子，出发吧！
+@ML@Your dark karma is overflowing. Until you make amends, all enemies you face will have their stats increased by 50%. This will make your journey significantly harder.\nTry doing a few good deeds—ASAP.	你的黑暗业力已经溢出。在你弥补过错之前，所有遭遇的敌人属性都会提高 50%，旅途将更加艰难。\n赶紧做几件善事吧！
+It was a productive workday. I worked hard and gathered extra goods. Pay me for my sweat and they're yours. I'll get back to my shift later.	今天干得不错。我辛苦工作，收集了不少额外物资。只要付我应得的报酬，这些就是你的了。我之后还得回去干活。
+I've come a long way. Faced a bunch of dangers and painful things on the road. You might need these. For a fair price, of course.	我从很远的地方赶来，一路经历了不少危险和苦难。这些东西也许对你有用。当然，得付个公道价。
+I battled deadly waves and mind-boggling monsters to find these goods. I suppose you can guess how valuable they are. Worth every single coin.	我与致命的海浪和难以想象的怪物搏斗，才找到这些货物。你应该猜得到它们有多珍贵。绝对物有所值。
+Our bank, which serves only the most elite and refined clientele, sent me personally. I am here to offer low-interest war loans. Truly low-interest.	我代表只服务于最尊贵客户的银行亲自前来，为你提供低息战争贷款。利息真的很低。
+Breeding healthy generations takes more than just good genes. With my breeding methods, your next hero will be born stronger than expected. And with absolutely no side effects!	培育健康的后代，光靠好基因还不够。使用我的繁衍方法，你的下一位英雄会比预期更强壮，而且绝对没有任何副作用！
+Wow! What a hunt that was. I made quite the flashy entrance into the village with a bunch of high-quality goods. Maybe you'd like to take a look at my haul. From the depths of the forest right to your door, full service!	哇，这次狩猎可真精彩！我带着一大批优质货物高调回村了。想看看我的收获吗？从森林深处直接送到你家，服务周到！
+It was a long and grueling adventure. Many dangers were faced. Many sacrifices were made, and many lives were lost. You might be expecting a reward, but the real treasure... was the adventure itself!	这是一段漫长而艰苦的冒险。我们经历了无数危险，付出了许多牺牲，也失去了许多生命。你也许期待一份奖励，但真正的宝藏……其实就是这段冒险本身！
+Now you can keep playing if you want. Or you can tackle the adventure with more challenging game modes. Or you can just quit while you're ahead and get on with your life.	你现在可以继续游玩，也可以挑战更高难度的游戏模式。当然，你也可以见好就收，去过自己的生活。
+@ML@A monument stone, stained with the blood of countless years.\nBy sacrificing a portion of your maximum health, you may receive the blessings this sacred stone offers.\n\nThe greater the offering, the greater the reward or so they say.\nBut losing your max health brings you one step closer to death.	一块被无数岁月的鲜血染红的纪念石。\n献祭部分生命值上限，即可获得这块圣石赐予的祝福。\n\n据说，献祭越多，回报就越丰厚。\n但失去生命值上限，会让你离死亡更近一步。
+end of boardlıke demo (For Now...)	Boardlike 试玩版结束（暂时如此……）
+@ML@Don’t worry! Death happens to everyone, especially in this game.\nNext time, try returning to the village before you die.\nUse the materials you've gathered to improve your village.\nThat way, you can progress even further.\nBut you're still going to die...	别担心！死亡是人人都要经历的事，在这个游戏里尤其如此。\n下次试着在死前返回村庄。\n利用收集的材料升级村庄，\n这样你就能走得更远。\n但你终究还是会死……
+Your hero will die here, and you will return to the village alone. Everything you have gathered will be buried with them.	你的英雄将在这里死去，而你只能独自返回村庄。你收集的一切都会随英雄一同埋葬。
+Update Alert!	更新提醒！
+Major changes have been made to the core mechanics of the game. You can check the Steam Community for details. To experience the new version, please start a new game.	游戏的核心机制发生了重大变化。你可以前往 Steam 社区查看详情。为了体验新版本，请开始新游戏。
+STEP	步骤
+Mercenary	雇佣兵
+Hire	雇佣
+Hired heroes don't join the family pool when they return from an adventure!	雇佣英雄结束冒险返回后，不会加入家族成员池！
+Unlocks after building a tavern!	建造酒馆后解锁！
+Blood Money	血钱
+Every fallen foe on the battlefield is a new recruit for us. We are ready to pay for every head you claim.	战场上每一个倒下的敌人，对我们来说都是一名新成员。你每杀死一个敌人，我们都愿意付钱。
+200 gold for every enemy you slay.	每击杀一个敌人获得 200 金币。
+Addiction to Violence	暴力成瘾
+We highly enjoy watching brutal and lethal strikes. Therefore, we shall pay a sum for this pleasure.	我们非常喜欢欣赏残酷致命的打击。为了这份乐趣，我们愿意付钱。
+250 gold for every successful critical hit.	每次成功暴击获得 250 金币。
+Gift to the Cowards	懦夫的馈赠
+It is not our style to reward weak souls who flee from battle. However, this is a game, and it has its reward.	奖励逃跑的懦夫可不是我们的风格。不过这毕竟是场游戏，逃跑也有奖赏。
+1000 gold for every battle you flee.	每次逃离战斗获得 1000 金币。
+Gambling Addict	赌博成瘾者
+As long as luck is on your side, we will support you. If you happen to roll doubles, don't forget to thank us.	只要幸运女神眷顾你，我们就会支持你。要是掷出一对相同点数的骰子，别忘了感谢我们。
+10% healing for every pair of dice rolled.	每次掷出对子，恢复 10% 生命值。
+Needy for Pain	渴求痛苦
+All kinds of madness are acceptable to us. We will pay for it, as long as you don't deliberately step into traps.	我们可以接受各种疯狂行为。只要你不是故意踩进陷阱，我们就愿意付钱。
+1000 gold for every trap you encounter along the way.	每遭遇一个陷阱获得 1000 金币。
+CONGRATULATIONS, YOU SOLD YOUR SOUL!	恭喜，你把灵魂卖掉了！
+You didn't read the fine print, did you? Don't worry, it won't take long... You're only bound to us until your corpse grows cold!	你没读合同的小字，对吧？别担心，不会太久的……你只需要被我们束缚到尸体冷透为止！
+200 Gold for every enemy slain	每击杀一个敌人：200 金币
+250 Gold for every Critical Hit	每次暴击：250 金币
+Fled the battle: 1000 Gold	逃离战斗：1000 金币
+Rolled a double: 10% Healing	掷出对子：恢复 10% 生命值
+Stepped on a trap: 1000 Gold	踩中陷阱：1000 金币
+@ML@When health drops to half, summons two warriors.\nWhile the warriors are alive, takes 40% less damage.\nWhen all warriors are slain: Attack +20%, Defense -20%.	生命值降至一半时，召唤两名战士。\n战士存活期间，受到的伤害降低 40%。\n所有战士阵亡后：攻击 +20%，防御 -20%。
+@ML@Spawns a Totem every 3 turns.\nWhile the Totem is alive, it automatically heals each turn.\nWhen the Totem is destroyed, it triggers a poisonous explosion.	每 3 回合生成一个图腾。\n图腾存活期间，每回合自动恢复生命值。\n图腾被摧毁时，会触发毒性爆炸。
+@ML@Starts with a very high Defense.\nEach time 20% of its Defense is lost, Attack +20%.	初始防御极高。\n每失去其防御值的 20%，攻击 +20%。
+@ML@When its health drops, it triggers a powerful sandstorm.\nThe storm intensifies as its health decreases.\nTier I: lose 25% Defense each turn.\nTier II: lose 50% Defense each turn.\nTier III: lose 100% Defense each turn.	生命值降低时会引发强力沙暴。\n生命值越低，沙暴越猛烈。\n第一阶段：每回合失去 25% 防御。\n第二阶段：每回合失去 50% 防御。\n第三阶段：每回合失去 100% 防御。
+@ML@Each time it takes damage, its inner heat rises.\nAt 5 Heat, gains +20% Attack.\nAt 10 Heat, gains +20% Defense.\nAt 15 Heat, restores half of its Health.	每次受到伤害，体内热量都会上升。\n热量达到 5：攻击 +20%。\n热量达到 10：防御 +20%。\n热量达到 15：恢复一半生命值。
+@ML@Can spawn Blood Piles around itself.\nEach pile heals 5% Health per turn.\nAfter 3 turns, piles mature and transform into a random enemy in the area.	可在周围生成血池。\n每个血池每回合恢复 5% 生命值。\n3 回合后，血池成熟并变为该区域的一名随机敌人。
+@ML@Every 2 turns, summons deep-sea tides.\nWhen waters rise: Attack and Defense +25%.\nWhen waters recede: 50% chance to spawn an Abyssal Husk.	每 2 回合召唤深海潮汐。\n涨潮时：攻击与防御 +25%。\n退潮时：有 50% 概率生成一只深渊残骸。
+Reinforcements!	援军来了！
+@ML@Two warriors summoned. \\nBandit Leader takes 40% less damage.	召唤两名战士。\n强盗首领受到的伤害降低 40%。
+Enraged!	狂怒！
+Attack +20% / Defense −20%	攻击 +20% / 防御 −20%
+Mud’s Blessing	泥沼祝福
+Heals itself each turn thanks to the Totem.	依靠图腾每回合恢复生命值。
+Wrath of the Stones	岩石之怒
+Defense broken. Attack +20%.	防御被击破。攻击 +20%。
+Lesser Piercing Storm!	初级穿刺风暴！
+You lose 25% Defense each turn.	你每回合失去 25% 防御。
+Rapid Piercing Storm!	迅猛穿刺风暴！
+You lose 50% Defense each turn.	你每回合失去 50% 防御。
+You lose 100% Defense each turn.	你每回合失去 100% 防御。
+Deadly Piercing Storm!	致命穿刺风暴！
+Wrath of the Flame	烈焰之怒
+The boss’s attack increased by 20%.	首领攻击提高 20%。
+Protection of the Flame	烈焰庇护
+The boss’s defense increased by 20%.	首领防御提高 20%。
+Flame’s Remedy	烈焰疗愈
+The boss’s health increased by 50%.	首领生命值提高 50%。
+Filthy Bloodspawn	污血孽物
+Each Blood Pile restores 5% Health every turn.	每个血池每回合恢复 5% 生命值。
+Tide Rising	涨潮
+Tide Receding	退潮
+The boss’s Attack and Defense increased by 25%.	首领攻击和防御提高 25%。
+50% chance to spawn a tide enemy.	有 50% 概率生成一名潮汐敌人。
+Boss Ability	首领技能
+@ML@Before we dive in, let's cover the basics. <color=#2CEE9C><b>Boardlike</b></color> is an adventure inspired by classic tabletop games.\\nYou will guide your custom-made heroes through <color=#2CEE9C><b>8 perilous regions</b></color> to reach the epic conclusion.	在深入冒险之前，先了解基本规则。<color=#2CEE9C><b>Boardlike</b></color> 是一款受经典桌游启发的冒险游戏。\n你将带领亲手打造的英雄穿越 <color=#2CEE9C><b>8 个危机四伏的地区</b></color>，迎接史诗般的终局。
+@ML@Creating a hero requires a small <color=#2CEE9C><b>Ceremony</b></color>. The chosen parents pass down their <color=#2CEE9C><b>Attributes and Genetic Perks</b></color> to the newborn.\\nThe stronger your lineage, the more powerful your heroes will be at the start.	创造英雄需要举行一场小小的<color=#2CEE9C><b>仪式</b></color>。选定的父母会将自己的<color=#2CEE9C><b>属性与遗传特质</b></color>传给新生儿。\n家族血脉越强，英雄在冒险之初就越有优势。
+@ML@After 3 turns, you can <color=#2CEE9C><b>Return</b></color> your hero to the village. They join the <color=#2CEE9C><b>Family Pool</b></color>, which is the key to breeding even mightier champions.\\nExplore, level up, and retreat before it’s too late to strengthen future generations.	经过 3 个回合后，你可以让英雄<color=#2CEE9C><b>返回</b></color>村庄。他们会加入<color=#2CEE9C><b>家族成员池</b></color>，这是培育更强大后代的关键。\n探索、升级，并在为时已晚之前撤退，为未来的世代积蓄力量。
+@ML@Expect your heroes to fall; <color=#2CEE9C><b>Death</b></color> is a natural part of this journey. When a hero dies, all progress is lost.\\nEvery roll is a gamble! You must know when to push your luck and when to fold.	要做好英雄陨落的准备；<color=#2CEE9C><b>死亡</b></color>是旅途中的常态。英雄一旦死亡，所有进度都将失去。\n每次掷骰都是一场赌博！你必须知道何时该继续冒险，何时该及时收手。
+@ML@Surviving a journey lets you use gathered resources to <color=#2CEE9C><b>Upgrade Your Village</b></color>. This unlocks new <color=#2CEE9C><b>Backgrounds</b></color> for future heroes.\\nUse <color=#2CEE9C><b>Bonus Points</b></color> to build sturdier legends.	在旅途中幸存下来，就能用收集到的资源<color=#2CEE9C><b>升级村庄</b></color>，为未来的英雄解锁新的<color=#2CEE9C><b>出身背景</b></color>。\n使用<color=#2CEE9C><b>奖励点数</b></color>，打造更强韧的传奇英雄。
+@ML@To reach the end, a hero must conquer <color=#2CEE9C><b>8 perilous regions</b></color>. Can you forge the ultimate champion?\\nRemember, <color=#D253FF><b>luck rules this realm</b></color>. If the dice betray you, start anew!	想要抵达终点，英雄必须征服<color=#2CEE9C><b>8 个危机四伏的地区</b></color>。你能培养出终极勇士吗？\n记住，<color=#D253FF><b>运气主宰着这个世界</b></color>。如果骰子背叛了你，那就重新开始吧！
+@ML@Here you can add the <color=#2CEE9C><b>battle cards</b></color> collected during your adventure from your inventory to your <color=#2CEE9C><b>deck</b></color>. Your deck can consist of a <color=#2CEE9C><b>minimum of 8 and a maximum of 24 cards</b></color>.	在这里，你可以把冒险途中从物品栏收集到的<color=#2CEE9C><b>战斗卡牌</b></color>加入<color=#2CEE9C><b>卡组</b></color>。卡组必须包含<color=#2CEE9C><b>至少 8 张、最多 24 张卡牌</b></color>。
+@ML@You can use gathered resources to upgrade your <color=#2CEE9C><b>lineage's abilities</b></color>. Every new mother and father candidate will grow stronger based on the <color=#2CEE9C><b>abilities you choose</b></color>. This way, you can bring forth <color=#2CEE9C><b>stronger children</b></color>.	你可以使用收集到的资源提升<color=#2CEE9C><b>家族血脉的能力</b></color>。今后每位候选父母都会根据你<color=#2CEE9C><b>选择的能力</b></color>变得更强。这样便能培育出<color=#2CEE9C><b>更强大的后代</b></color>。
+@ML@First of all, a massive thank you to those who dared to step into this eerie world while it was still a chaotic, half-built nightmare.\n\nThe dark forces have finally laid down their hammers, and we are thrilled to announce that our 1.0 Full Release is here! All 8 regions of these ancient lands are now entirely open, overflowing with treacherous items, hidden mysteries, and brand new ways to meet a terrible fate.\n\nTo our Early Access veterans who stood by us, survived floating monsters, and endured unexpected crashes: thank you from the bottom of our black hearts. Your relentless bug reports and brilliant ideas were the magical runes that forged this game into what it is today. You literally helped us build a better torture chamber... we mean, adventure!\n\nEven though the realm is now fully formed, our journey together doesn't end here. The shadows are always whispering new ideas, and we still deeply value your thoughts. Please keep sharing your feedback, suggestions, and glorious death stories on our Steam Community page. Your voice is what keeps this world alive.\n\nNow, grip that sword tighter than ever. The training wheels are officially off, and this fully realized realm will have absolutely no mercy on you. But hey... at least your inevitable doom will look spectacular!\n\nWelcome to the full experience.	首先，衷心感谢每一位勇敢踏入这个诡异世界的玩家。那时的游戏还是一场混乱、尚未完工的噩梦。\n\n黑暗势力终于放下了手中的锤子，我们很高兴地宣布：1.0 正式版现已推出！这片古老土地的全部 8 个地区都已开放，遍布危险的道具、隐藏的谜团，以及各种全新的惨死方式。\n\n致所有一路支持我们的抢先体验老玩家：感谢你们挺过漂浮的怪物和突如其来的崩溃。你们不懈提交的错误报告与精彩建议，就像魔法符文一样，帮助我们打造出更好的酷刑室……我是说，更好的冒险游戏！\n\n虽然这个世界已经完整成形，我们的旅程却不会就此结束。阴影中总有新点子在低语，我们依然非常重视你们的意见。欢迎继续在 Steam 社区分享反馈、建议，以及那些壮烈的死亡故事。你们的声音让这个世界保持生机。\n\n现在，把剑握得更紧一些吧。新手保护已经结束，这个完整的世界绝不会手下留情。不过，至少你注定到来的末日会相当精彩！\n\n欢迎体验正式版的全部内容。
+@ML@Congratulations, Traveler! \\nYou’ve made it through these dark corridors in one piece.\\nWas it luck or pure skill? Well, savor the moment, for the demo ends here. \\n \\nTo stay informed and support us on this dark journey, \\n add <color=#FFDE00><b>BOARDLIKE</b></color> to your <color=#FFDE00><b>STEAM WISHLIST</b></color> now.\\n\\nSee you on the next run... If you can stay alive until then.	恭喜你，旅行者！ \n你完好无损地走出了这些黑暗的走廊。\n这是运气，还是实力？不管怎样，好好享受这一刻吧，因为试玩版到此结束。 \n \n想继续了解我们的黑暗旅程并给予支持，\n现在就将 <color=#FFDE00><b>BOARDLIKE</b></color> 加入你的 <color=#FFDE00><b>STEAM 愿望单</b></color>吧。\n\n下次冒险再见……前提是你能活到那时。
+@ML@For players who want to experience the game under standard conditions.\n\\nProvides a balanced number of breeding rite to finish the game.	适合希望在标准条件下体验游戏的玩家。\n\\n提供均衡的繁衍仪式次数，供你完成游戏。
+@ML@For players who want to experience the game without the breeding limit.\n\\nGrants unlimited breeding rite to reach the end of the game.	适合希望不受繁衍次数限制的玩家。\n\\n提供无限次繁衍仪式，让你能够一路挑战至终点。
+@ML@For experienced players who want to finish the game with a very limited number of breeding rite.\\n\nYou must make the right decisions with every hero.	适合希望在极少繁衍次数内通关的资深玩家。\n\\n每位英雄的每个决定都至关重要。
+@ML@Boardlike is a game where your luck and choices are constantly tested. \\n\r\nBreeding Rite determine how many total heroes / your total number of attempts you have to finish the run. \\n\r\nWhen your breeding rights run out, you lose the game and the run is reset. \\n\r\nIf you’re not happy with the selected game mode, you can start a new game and choose again.\r\n	《Boardlike》是一款不断考验运气与抉择的游戏。 \\n\r\n繁衍仪式次数决定了你在本轮游戏中能够拥有多少名英雄，也就是总共能尝试多少次。 \\n\r\n当繁衍次数耗尽时，你便会失败，本轮游戏也将重置。 \\n\r\n如果你不喜欢所选的游戏模式，可以开始新游戏并重新选择。\r\n
+@ML@You’ve used all your breeding rite and couldn’t reach the end of the journey. \\n\r\nBut I’m sure you’ve learned many lessons from this run.\r\n	你的繁衍仪式次数已经用尽，却仍未抵达旅程的终点。 \\n\r\n但我相信，你一定从这次冒险中学到了不少东西。\r\n
+And honestly... the silence was terrifying.	说真的……那片寂静令人不寒而栗。
+Game Saved!	游戏已保存！
