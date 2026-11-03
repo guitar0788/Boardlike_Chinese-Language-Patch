@@ -1,0 +1,60 @@
+name: Verify Boardlike integrated release ZIP
+
+on:
+  pull_request:
+    paths:
+      - 'Boardlike_Chinese_Patch_Release.zip'
+      - 'Boardlike_Chinese_Integrated_Fixed_*.zip'
+      - '.github/workflows/verify-release-zip.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'Boardlike_Chinese_Patch_Release.zip'
+      - 'Boardlike_Chinese_Integrated_Fixed_*.zip'
+      - '.github/workflows/verify-release-zip.yml'
+
+jobs:
+  verify-zip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check complete flat-root integration archive
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          import hashlib
+
+          a = Path("Boardlike_Chinese_Patch_Release.zip")
+          b = Path("Boardlike_Chinese_Integrated_Fixed_2026-11-03.zip")
+          assert a.exists() and b.exists(), "Release archives missing"
+          assert a.read_bytes() == b.read_bytes(), "Download aliases differ"
+          required = {
+              ".doorstop_version", "doorstop_config.ini", "winhttp.dll",
+              "BepInEx/core/BepInEx.dll",
+              "BepInEx/core/BepInEx.Preloader.dll",
+              "BepInEx/plugins/BoardlikeChinese/BoardlikeChinese.dll",
+              "BepInEx/plugins/BoardlikeChinese/translations.tsv",
+              "BepInEx/plugins/BoardlikeChinese/locale_bridge.tsv",
+              "README_INSTALL_CN.txt",
+          }
+          with ZipFile(a) as z:
+              names = z.namelist()
+              assert z.testzip() is None, "Corrupted ZIP/CRC"
+              assert len(names) == len(set(names)), "Duplicate ZIP entry"
+              assert required <= set(names), f"Missing required files: {required-set(names)}"
+              assert not any(
+                  n.startswith(("Boardlike_Chinese_Patch_Release/", "/"))
+                  or ".." in Path(n).parts for n in names
+              ), "Nested release folder or unsafe path"
+              assert len(names) == 25, f"Unexpected file count: {len(names)}"
+              assert len([n for n in names if n.startswith("BepInEx/core/")]) >= 10, "Missing BepInEx runtime"
+              assert all(not n.endswith("/") for n in names), "Unexpected wrapping folder"
+          assert Path("archive/Boardlike_Chinese_Patch_Release_legacy_nested.zip").exists(), "Original release backup missing"
+          print("ZIP integrity, BepInEx loader, translation assets and flat-root directory: PASS")
+          print("SHA256", hashlib.sha256(a.read_bytes()).hexdigest())
+          print("WARNING: Real Windows Boardlike startup test is NOT covered")
+          PY
